@@ -1,0 +1,1737 @@
+﻿Number,Lat,Lon,Landcover_classification,Corrected_Peat_thickness_m,Measured_Carbon_density_Mg_ha
+1,0.85437,17.0609,Non-peat forming forest,0.1,NA
+2,0.85441,17.06425,Savanna,0,NA
+3,0.85438,17.06208,Non-peat forming forest,0,NA
+4,0.85429,17.05993,Non-peat forming forest,0,NA
+5,0.85451,17.05762,Non-peat forming forest,0,NA
+6,0.85456,17.05541,Non-peat forming forest,0,NA
+7,0.85473,17.05327,Non-peat forming forest,0,NA
+8,0.8549,17.0509,Non-peat forming forest,0,NA
+9,0.85488,17.0486,Non-peat forming forest,0,NA
+10,0.85499,17.04635,Non-peat forming forest,0,NA
+11,0.85496,17.04418,Non-peat forming forest,0,NA
+12,0.85474,17.04201,Hardwood peat swamp forest,1.76,NA
+13,0.85461,17.03969,Hardwood peat swamp forest,1.16,NA
+14,0.85465,17.03743,Hardwood peat swamp forest,1.1,"1,397"
+15,0.85483,17.03521,Hardwood peat swamp forest,1.29,NA
+16,0.85502,17.03293,Palm peat swamp forest,1.76,NA
+17,0.85495,17.03055,Palm peat swamp forest,1.64,NA
+18,0.85493,17.0285,Palm peat swamp forest,1.5,"1,871"
+19,0.85495,17.02628,Palm peat swamp forest,1.92,NA
+20,0.85505,17.02402,Palm peat swamp forest,1.82,NA
+21,0.85526,17.02171,Palm peat swamp forest,2.06,NA
+22,0.85525,17.01961,Palm peat swamp forest,1.3,"1,289"
+23,0.85536,17.01728,Palm peat swamp forest,1.22,NA
+24,0.85514,17.01516,Palm peat swamp forest,0.77,NA
+25,0.8553,17.01278,Palm peat swamp forest,2.5,NA
+26,0.8555,17.0105,Palm peat swamp forest,1.5,"1,578"
+27,1.90267,18.01689,Non-peat forming forest,0,NA
+28,1.91111,18.01778,Non-peat forming forest,0,NA
+29,1.91556,18.02133,Non-peat forming forest,0,NA
+30,1.91689,18.03956,Non-peat forming forest,0,NA
+31,1.91911,18.05156,Non-peat forming forest,0,NA
+32,1.91242,18.01296,Non-peat forming forest,0,NA
+33,1.91226,18.01075,Non-peat forming forest,0,NA
+34,1.91176,18.00842,Non-peat forming forest,0,NA
+35,1.91165,18.00632,Non-peat forming forest,0,NA
+36,1.91127,18.004,Non-peat forming forest,0,NA
+37,1.91092,18.00188,Non-peat forming forest,0,NA
+38,1.91064,17.99951,Hardwood peat swamp forest,0.57,NA
+39,1.91019,17.99738,Hardwood peat swamp forest,0.31,NA
+40,1.90988,17.99501,Hardwood peat swamp forest,0.3,246
+41,1.90962,17.9929,Hardwood peat swamp forest,0.82,NA
+42,1.90921,17.99079,Hardwood peat swamp forest,0.87,NA
+43,1.909,17.98853,Hardwood peat swamp forest,0.97,NA
+44,1.90852,17.98628,Hardwood peat swamp forest,0.8,NA
+45,1.90784,17.98426,Hardwood peat swamp forest,0.9,NA
+46,1.90765,17.98192,Hardwood peat swamp forest,1.18,NA
+47,1.90723,17.97952,Hardwood peat swamp forest,0.98,NA
+48,1.90701,17.97768,Hardwood peat swamp forest,1.1,"1,770"
+49,1.90654,17.9749,Hardwood peat swamp forest,2.05,NA
+50,1.90636,17.97285,Hardwood peat swamp forest,1.92,NA
+51,1.906,17.97069,Hardwood peat swamp forest,1.38,NA
+52,1.90575,17.96861,Hardwood peat swamp forest,1.3,NA
+53,1.90543,17.96639,Hardwood peat swamp forest,1.8,NA
+54,1.9049,17.96421,Hardwood peat swamp forest,1.98,NA
+55,1.90466,17.96196,Hardwood peat swamp forest,1.58,NA
+56,1.90406,17.95954,Hardwood peat swamp forest,1.7,"2,597"
+57,1.21447,17.48918,Hardwood peat swamp forest,2.16,NA
+58,1.21369,17.49129,Hardwood peat swamp forest,2.21,NA
+59,1.21317,17.49348,Hardwood peat swamp forest,2.28,NA
+60,1.21264,17.4956,Hardwood peat swamp forest,2.47,NA
+61,1.21228,17.49791,Hardwood peat swamp forest,2.33,NA
+62,1.21174,17.50002,Hardwood peat swamp forest,2.99,NA
+63,1.21134,17.50222,Hardwood peat swamp forest,2.53,NA
+64,1.21104,17.50454,Hardwood peat swamp forest,2.01,NA
+65,1.21054,17.50675,Hardwood peat swamp forest,2.43,NA
+66,1.21002,17.50893,Hardwood peat swamp forest,2.48,NA
+67,1.20961,17.51107,Hardwood peat swamp forest,3.07,NA
+68,1.20921,17.51319,Hardwood peat swamp forest,2.77,NA
+69,1.20887,17.51555,Hardwood peat swamp forest,2.67,NA
+70,1.20842,17.51776,Hardwood peat swamp forest,2.81,NA
+71,1.20786,17.51996,Hardwood peat swamp forest,2.64,NA
+72,1.20752,17.52207,Hardwood peat swamp forest,3,"2,448"
+73,1.20702,17.52427,Hardwood peat swamp forest,3.02,NA
+74,1.20648,17.52641,Hardwood peat swamp forest,2.94,NA
+75,1.20604,17.52864,Hardwood peat swamp forest,3.04,NA
+76,1.20547,17.53098,Hardwood peat swamp forest,2.6,NA
+77,1.20512,17.53324,Hardwood peat swamp forest,2.99,NA
+78,1.20468,17.53527,Hardwood peat swamp forest,2.9,NA
+79,1.20438,17.53757,Hardwood peat swamp forest,3.06,NA
+80,1.20394,17.53983,Hardwood peat swamp forest,3.15,NA
+81,1.20324,17.54186,Hardwood peat swamp forest,2.86,NA
+82,1.20273,17.54408,Hardwood peat swamp forest,3.14,NA
+83,1.20243,17.54625,Hardwood peat swamp forest,3.06,NA
+84,1.20191,17.54853,Hardwood peat swamp forest,3.43,NA
+85,1.2016,17.55073,Hardwood peat swamp forest,3.72,NA
+86,1.20106,17.5529,Hardwood peat swamp forest,3.67,NA
+87,1.20056,17.55519,Hardwood peat swamp forest,3.41,NA
+88,1.20011,17.5575,Hardwood peat swamp forest,3.8,"2,441"
+89,1.19987,17.55964,Hardwood peat swamp forest,3.42,NA
+90,1.19938,17.56169,Hardwood peat swamp forest,3.43,NA
+91,1.19905,17.56403,Hardwood peat swamp forest,4.03,NA
+92,1.19856,17.56621,Hardwood peat swamp forest,4.02,NA
+93,1.198,17.56838,Palm peat swamp forest,4.38,NA
+94,1.19757,17.57036,Hardwood peat swamp forest,3.96,NA
+95,1.1971,17.57277,Hardwood peat swamp forest,4.07,NA
+96,1.19666,17.57492,Hardwood peat swamp forest,4.24,NA
+97,1.19635,17.57708,Hardwood peat swamp forest,4.11,NA
+98,1.19588,17.57936,Hardwood peat swamp forest,4.61,NA
+99,1.1955,17.58153,Palm peat swamp forest,4.72,NA
+100,1.19525,17.58392,Hardwood peat swamp forest,2.93,NA
+101,1.19493,17.58597,Palm peat swamp forest,4.21,NA
+102,1.19454,17.58824,Hardwood peat swamp forest,4.02,NA
+103,1.19437,17.59038,Hardwood peat swamp forest,4.77,NA
+104,1.19404,17.59263,Hardwood peat swamp forest,4.7,"2,830"
+105,1.19352,17.5947,Palm peat swamp forest,4.71,NA
+106,1.19305,17.59707,Palm peat swamp forest,5.06,NA
+107,1.19265,17.59938,Hardwood peat swamp forest,5.02,NA
+108,1.19243,17.6015,Hardwood peat swamp forest,4.98,NA
+109,1.19195,17.6037,Palm peat swamp forest,5.07,NA
+110,1.19149,17.60601,Palm peat swamp forest,5.14,NA
+111,1.19097,17.60804,Hardwood peat swamp forest,5.13,NA
+112,1.19024,17.61052,Hardwood peat swamp forest,5.09,NA
+113,1.18997,17.61247,Palm peat swamp forest,5.03,NA
+114,1.18953,17.61469,Hardwood peat swamp forest,5.15,NA
+115,1.18903,17.61689,Hardwood peat swamp forest,5.51,NA
+116,1.18854,17.61905,Palm peat swamp forest,5.26,NA
+117,1.18804,17.62122,Palm peat swamp forest,4.75,NA
+118,1.18755,17.62336,Palm peat swamp forest,4.81,NA
+119,1.1871,17.62564,Palm peat swamp forest,5.9,NA
+120,1.18667,17.62778,Hardwood peat swamp forest,5.5,"3,100"
+121,1.18607,17.62998,Palm peat swamp forest,5.19,NA
+122,1.18556,17.63227,Palm peat swamp forest,4.98,NA
+123,1.18516,17.63443,Hardwood peat swamp forest,5.11,NA
+124,1.18459,17.63664,Hardwood peat swamp forest,5.34,NA
+125,1.18401,17.63886,Hardwood peat swamp forest,5.48,NA
+126,1.18369,17.64109,Hardwood peat swamp forest,5.44,NA
+127,1.18325,17.64324,Hardwood peat swamp forest,5.34,NA
+128,1.18268,17.64547,Palm peat swamp forest,5.32,NA
+129,1.18208,17.64752,Palm peat swamp forest,5.25,NA
+130,1.18168,17.64968,Palm peat swamp forest,5.41,NA
+131,1.18128,17.652,Hardwood peat swamp forest,5.8,NA
+132,1.18081,17.65414,Hardwood peat swamp forest,5.1,NA
+133,1.18028,17.65646,Palm peat swamp forest,5.03,NA
+134,1.17971,17.65856,Palm peat swamp forest,5.01,NA
+135,1.17932,17.66075,Palm peat swamp forest,4.91,NA
+136,1.17876,17.66297,Palm peat swamp forest,5.2,"3,183"
+137,1.22635,17.9126,Non-peat forming forest,0,NA
+138,1.22595,17.91296,Non-peat forming forest,0,NA
+139,1.21556,17.90311,Non-peat forming forest,0,NA
+140,1.20533,17.89867,Non-peat forming forest,0,NA
+141,1.204,17.88756,Non-peat forming forest,0,NA
+142,1.20311,17.88,Non-peat forming forest,0,NA
+143,1.19867,17.87689,Non-peat forming forest,0,NA
+144,1.19156,17.84667,Hardwood peat swamp forest,NA,NA
+145,1.2076,17.84645,Hardwood peat swamp forest,1.4,"1,607"
+146,1.19859,17.87514,Non-peat forming forest,0,NA
+147,1.19797,17.87296,Non-peat forming forest,0,NA
+148,1.19757,17.87077,Non-peat forming forest,0,NA
+149,1.19706,17.8685,Non-peat forming forest,0,NA
+150,1.19691,17.86627,Non-peat forming forest,0,NA
+151,1.19604,17.8641,Non-peat forming forest,0,NA
+152,1.19588,17.86175,Hardwood peat swamp forest,0.49,NA
+153,1.19563,17.85952,Hardwood peat swamp forest,2.01,NA
+154,1.19469,17.85759,Hardwood peat swamp forest,0.3,269
+155,1.19447,17.85542,Hardwood peat swamp forest,1.31,NA
+156,1.19403,17.85313,Hardwood peat swamp forest,0.89,NA
+157,1.19318,17.85081,Hardwood peat swamp forest,1.07,NA
+158,1.19219,17.84897,Hardwood peat swamp forest,0.8,"1,132"
+159,1.19122,17.84679,Hardwood peat swamp forest,1.69,NA
+160,1.19086,17.84448,Hardwood peat swamp forest,1.75,NA
+161,1.1906,17.84236,Palm peat swamp forest,1.76,NA
+162,1.18999,17.84023,Palm peat swamp forest,1.5,"1,813"
+163,1.18961,17.83802,Palm peat swamp forest,1.86,NA
+164,1.18889,17.83556,Palm peat swamp forest,2.01,NA
+165,1.18861,17.83372,Palm peat swamp forest,1.78,NA
+166,1.18799,17.8315,Palm peat swamp forest,1.53,"2,177"
+167,1.1877,17.82938,Palm peat swamp forest,2.06,NA
+168,1.18748,17.8271,Palm peat swamp forest,2.29,NA
+169,1.18698,17.82495,Palm peat swamp forest,2.27,NA
+170,1.18627,17.82269,Palm peat swamp forest,2,"1,997"
+171,1.1861,17.8205,Palm peat swamp forest,2.03,NA
+172,1.18573,17.81821,Palm peat swamp forest,2.26,NA
+173,1.18488,17.81619,Palm peat swamp forest,2.43,NA
+174,1.1846,17.81385,Palm peat swamp forest,2.4,"2,122"
+175,1.18404,17.81187,Palm peat swamp forest,2.38,NA
+176,1.18367,17.80947,Palm peat swamp forest,2.64,NA
+177,1.18306,17.80738,Palm peat swamp forest,2.71,NA
+178,1.18261,17.80517,Palm peat swamp forest,2.76,"2,485"
+179,1.18212,17.80305,Palm peat swamp forest,2.77,NA
+180,1.18156,17.80085,Palm peat swamp forest,3.14,NA
+181,1.18179,17.79837,Palm peat swamp forest,2.77,NA
+182,1.18077,17.79632,Palm peat swamp forest,2.99,"2,269"
+183,-0.24028,17.3582,Savanna,0,NA
+184,-0.23957,17.35606,Non-peat forming forest,0,NA
+185,-0.239,17.35378,Non-peat forming forest,0,NA
+186,-0.23854,17.35159,Non-peat forming forest,0,NA
+187,-0.23807,17.34937,Non-peat forming forest,0.1,NA
+188,-0.23768,17.34715,Palm peat swamp forest,0.57,NA
+189,-0.23713,17.34501,Palm peat swamp forest,0.72,NA
+190,-0.23687,17.34282,Hardwood peat swamp forest,0.78,NA
+191,-0.23628,17.34056,Hardwood peat swamp forest,0.8,829
+192,-0.2357,17.33853,Hardwood peat swamp forest,1.25,NA
+193,-0.23513,17.33627,Hardwood peat swamp forest,0.66,NA
+194,-0.23468,17.33411,Palm peat swamp forest,0.96,NA
+195,-0.23423,17.33187,Palm peat swamp forest,1.1,761
+196,-0.2335,17.32976,Palm peat swamp forest,1.06,NA
+197,-0.23303,17.32756,Palm peat swamp forest,1.37,NA
+198,-0.23253,17.32534,Palm peat swamp forest,1.17,NA
+199,-0.23203,17.32321,Palm peat swamp forest,1,909
+200,-0.23151,17.32096,Palm peat swamp forest,1.83,NA
+201,-0.23091,17.31881,Palm peat swamp forest,1.79,NA
+202,-0.23043,17.31658,Palm peat swamp forest,2.74,NA
+203,-0.22997,17.31444,Palm peat swamp forest,2.2,"1,640"
+204,-0.24354,17.3697,Savanna,0,NA
+205,-0.24376,17.37063,Savanna,0,NA
+206,-0.24397,17.3715,Savanna,0,NA
+207,-0.24413,17.37226,Savanna,0,NA
+208,1.20391,17.44184,Non-peat forming forest,0,NA
+209,1.2025,17.43449,Savanna,0.3,NA
+210,1.20258,17.43678,Savanna,0,NA
+211,1.20312,17.43898,Savanna,0,NA
+212,1.20364,17.44114,Savanna,0,NA
+213,1.20438,17.44325,Non-peat forming forest,0,NA
+214,1.20475,17.44537,Non-peat forming forest,0,NA
+215,1.20521,17.44774,Hardwood peat swamp forest,0.32,NA
+216,1.20547,17.44989,Non-peat forming forest,0,NA
+217,1.20608,17.45214,Palm peat swamp forest,0.5,622
+218,1.20666,17.4543,Hardwood peat swamp forest,0.54,NA
+219,1.20719,17.45639,Hardwood peat swamp forest,0.54,NA
+220,1.20788,17.45861,Hardwood peat swamp forest,1.05,NA
+221,1.20851,17.46087,Hardwood peat swamp forest,1.2,NA
+222,1.2089,17.46299,Hardwood peat swamp forest,1.36,NA
+223,1.20953,17.46514,Hardwood peat swamp forest,1.4,NA
+224,1.21006,17.46715,Hardwood peat swamp forest,1.4,NA
+225,1.21068,17.46953,Hardwood peat swamp forest,1.5,"2,119"
+226,1.21116,17.47166,Hardwood peat swamp forest,1.87,NA
+227,1.21175,17.47373,Hardwood peat swamp forest,1.68,NA
+228,1.21243,17.47604,Hardwood peat swamp forest,1.48,NA
+229,1.21286,17.47824,Hardwood peat swamp forest,1.7,NA
+230,1.21348,17.48033,Hardwood peat swamp forest,2.2,NA
+231,1.21397,17.48252,Hardwood peat swamp forest,2.07,NA
+232,1.21465,17.48475,Hardwood peat swamp forest,1.93,NA
+233,1.21508,17.48701,Hardwood peat swamp forest,2,"2,241"
+234,1.48188,17.41708,Savanna,0,NA
+235,1.48298,17.41848,Savanna,0,NA
+236,1.48409,17.41991,Savanna,0,NA
+237,1.48524,17.42134,Palm peat swamp forest,0.3,NA
+238,1.48633,17.42274,Non-peat forming forest,0.17,NA
+239,1.48742,17.42416,Palm peat swamp forest,0.5,NA
+240,1.48858,17.42551,Non-peat forming forest,0.2,NA
+241,1.48966,17.42694,Palm peat swamp forest,0.5,314
+242,1.49081,17.42835,Palm peat swamp forest,1.1,"1,613"
+243,1.49197,17.42975,Palm peat swamp forest,0.73,776
+244,1.49312,17.4311,Hardwood peat swamp forest,1.1,"1,901"
+245,1.49431,17.43248,Hardwood peat swamp forest,0.62,517
+246,1.49533,17.43391,Hardwood peat swamp forest,0.47,801
+247,1.49652,17.43534,Palm peat swamp forest,0.4,497
+248,1.49764,17.43676,Palm peat swamp forest,0.37,NA
+249,1.4987,17.43819,Non-peat forming forest,0.1,NA
+250,1.4864,17.43515,Non-peat forming forest,0,NA
+251,1.48575,17.43576,Non-peat forming forest,0,NA
+252,1.47967,17.4296,Hardwood peat swamp forest,1.2,"1,760"
+253,1.487,17.43821,Non-peat forming forest,0,NA
+254,1.49228,17.42542,Palm peat swamp forest,0.9,"1,037"
+255,1.4925,17.42449,Palm peat swamp forest,1.2,"1,558"
+256,0.59467,17.84622,Non-peat forming forest,0,NA
+257,0.60667,17.84933,Non-peat forming forest,0,NA
+258,0.60044,17.84978,Non-peat forming forest,0,NA
+259,0.59511,17.85244,Non-peat forming forest,0,NA
+260,0.59886,17.84406,Non-peat forming forest,0,NA
+261,0.59834,17.84186,Non-peat forming forest,0,NA
+262,0.59785,17.83956,Non-peat forming forest,0,NA
+263,0.59731,17.83743,Non-peat forming forest,0,NA
+264,0.59707,17.83515,Non-peat forming forest,0,NA
+265,0.59653,17.83295,Palm peat swamp forest,0.5,636
+266,0.59597,17.8308,Hardwood peat swamp forest,0.37,NA
+267,0.59542,17.82856,Hardwood peat swamp forest,0.73,NA
+268,0.59485,17.82683,Non-peat forming forest,0.1,NA
+269,0.59417,17.82427,Hardwood peat swamp forest,3.76,NA
+270,0.59358,17.82214,Palm peat swamp forest,1.2,NA
+271,0.59299,17.8199,Hardwood peat swamp forest,1.2,NA
+272,0.5925,17.81775,Hardwood peat swamp forest,1,"1,107"
+273,0.59196,17.81561,Palm peat swamp forest,1.83,NA
+274,0.59152,17.81332,Palm peat swamp forest,1.08,NA
+275,0.59076,17.81151,Palm peat swamp forest,1.09,NA
+276,0.59036,17.80916,Palm peat swamp forest,2.4,"2,649"
+277,0.58989,17.80687,Palm peat swamp forest,1.59,NA
+278,0.5893,17.80474,Palm peat swamp forest,1.83,NA
+279,0.58883,17.80255,Palm peat swamp forest,2.65,NA
+280,0.5883,17.80032,Palm peat swamp forest,1.8,"2,039"
+281,0.5877,17.79817,Palm peat swamp forest,2.49,NA
+282,0.5872,17.79601,Palm peat swamp forest,2.59,NA
+283,0.58676,17.79372,Palm peat swamp forest,2.79,NA
+284,0.5861,17.79155,Palm peat swamp forest,2.5,"2,649"
+285,1.91616,18.03627,Non-peat forming forest,0,NA
+286,1.91684,18.0397,Non-peat forming forest,0,NA
+287,1.91737,18.04326,Non-peat forming forest,0.1,NA
+288,1.91798,18.04667,Non-peat forming forest,0,NA
+289,1.9183,18.0488,Non-peat forming forest,0,NA
+290,1.91882,18.05166,Non-peat forming forest,0,NA
+291,1.91943,18.05567,Non-peat forming forest,0,NA
+292,1.91983,18.05836,Non-peat forming forest,0,NA
+293,-0.44095,18.52119,Savanna,0,NA
+294,-0.44044,18.52458,Non-peat forming forest,0,NA
+295,-0.43991,18.52378,Non-peat forming forest,0,NA
+296,-0.44301,18.51953,Savanna,0,NA
+297,-0.44464,18.51983,Savanna,0,NA
+298,-0.44772,18.51844,Savanna,0,NA
+299,-0.44093,18.52142,Non-peat forming forest,0,NA
+300,-0.45198,18.52939,Water,NA,NA
+301,-0.44071,18.52509,Non-peat forming forest,0,NA
+302,-0.44112,18.5273,Non-peat forming forest,0.27,NA
+303,-0.44149,18.52953,Non-peat forming forest,0.19,NA
+304,-0.44152,18.53185,Hardwood peat swamp forest,0.3,95
+305,-0.44182,18.54305,Hardwood peat swamp forest,0.6,352
+306,-0.44193,18.54523,Hardwood peat swamp forest,1.6,NA
+307,-0.44192,18.54745,Hardwood peat swamp forest,1.54,NA
+308,-0.44199,18.5497,Hardwood peat swamp forest,1.89,NA
+309,-0.44199,18.55193,Hardwood peat swamp forest,2.4,"1,943"
+310,-0.442,18.55429,Hardwood peat swamp forest,2.14,NA
+311,-0.44205,18.55655,Hardwood peat swamp forest,2.04,NA
+312,-0.44216,18.55878,Hardwood peat swamp forest,2.17,NA
+313,-0.44223,18.56092,Hardwood peat swamp forest,2.1,NA
+314,-0.44226,18.56318,Hardwood peat swamp forest,1.63,NA
+315,-0.44237,18.56545,Hardwood peat swamp forest,1.66,NA
+316,-0.44869,18.51975,Savanna,0,NA
+317,-0.4415,18.53206,Water,NA,NA
+318,-0.44164,18.5333,Water,NA,NA
+319,-0.44133,18.54093,Water,NA,NA
+320,0.31692,18.79614,Savanna,0,NA
+321,0.31722,18.79605,Water,NA,NA
+322,0.31616,18.79683,Hardwood peat swamp forest,0.3,NA
+323,0.31442,18.79817,Hardwood peat swamp forest,0.49,NA
+324,0.31261,18.79968,Hardwood peat swamp forest,0.94,NA
+325,0.31105,18.80132,Non-peat forming forest,0.15,NA
+326,0.30946,18.80287,Hardwood peat swamp forest,1.2,"1,447"
+327,0.30785,18.80439,Hardwood peat swamp forest,1.57,NA
+328,0.30633,18.80585,Hardwood peat swamp forest,2.2,NA
+329,0.30473,18.80748,Hardwood peat swamp forest,2.24,NA
+330,0.3032,18.80919,Palm peat swamp forest,2.3,NA
+331,0.30161,18.81085,Hardwood peat swamp forest,3.39,NA
+332,0.29992,18.81223,Hardwood peat swamp forest,1.18,NA
+333,0.29826,18.81378,Hardwood peat swamp forest,1.82,NA
+334,0.29658,18.81528,Hardwood peat swamp forest,2,"2,425"
+335,0.29494,18.81688,Hardwood peat swamp forest,2.52,NA
+336,0.29331,18.81841,Hardwood peat swamp forest,3.02,NA
+337,0.29177,18.8199,Hardwood peat swamp forest,2.72,NA
+338,0.29007,18.82155,Hardwood peat swamp forest,3.6,NA
+339,0.28833,18.82291,Hardwood peat swamp forest,2.4,NA
+340,0.28677,18.82454,Hardwood peat swamp forest,3.02,NA
+341,0.28505,18.82593,Hardwood peat swamp forest,4.02,NA
+342,0.28348,18.82755,Hardwood peat swamp forest,3.9,"4,731"
+343,0.29254,18.74953,Water,NA,NA
+344,-0.29392,18.21257,Savanna,0,NA
+345,-0.2906,18.22528,Savanna,0,NA
+346,-0.29195,18.2264,Savanna,0,NA
+347,-0.29363,18.21274,Savanna,0,NA
+348,-0.29303,18.21037,Savanna,0,NA
+349,-0.2918,18.20826,Savanna,0,NA
+350,-0.29272,18.21032,Savanna,0,NA
+351,-0.29502,18.22626,Savanna,0,NA
+352,-0.28977,18.22165,Non-peat forming forest,0,NA
+353,-0.29252,18.22088,Non-peat forming forest,0,NA
+354,-0.28974,18.22194,Non-peat forming forest,0,NA
+355,-0.28935,18.22365,Savanna,0,NA
+356,-0.29321,18.22016,Hardwood peat swamp forest,2.75,NA
+357,-0.28999,18.22109,Hardwood peat swamp forest,3.4,NA
+358,-0.2973,18.20733,Non-peat forming forest,0,NA
+359,-0.29867,18.20575,Non-peat forming forest,0,NA
+360,-0.30026,18.20418,Hardwood peat swamp forest,1.29,NA
+361,-0.30172,18.20244,Hardwood peat swamp forest,4.37,NA
+362,-0.3032,18.20069,Hardwood peat swamp forest,4.1,NA
+363,-0.30461,18.19898,Hardwood peat swamp forest,5.44,NA
+364,-0.30612,18.19728,Hardwood peat swamp forest,5.62,NA
+365,-0.30748,18.19565,Palm peat swamp forest,4.7,NA
+366,-0.30911,18.19393,Palm peat swamp forest,4.3,"2,855"
+367,-0.31053,18.19225,Palm peat swamp forest,4.88,NA
+368,-0.31204,18.1905,Hardwood peat swamp forest,4.6,NA
+369,-0.31342,18.18887,Palm peat swamp forest,4.7,NA
+370,-0.31495,18.1871,Hardwood peat swamp forest,2.9,NA
+371,-0.31645,18.18544,Palm peat swamp forest,1.86,NA
+372,-0.31797,18.18385,Hardwood peat swamp forest,5.72,NA
+373,-0.31947,18.18215,Hardwood peat swamp forest,5.78,NA
+374,-0.32095,18.18046,Hardwood peat swamp forest,5.1,"3,561"
+375,-0.32248,18.17873,Hardwood peat swamp forest,6.02,NA
+376,-0.32399,18.17702,Hardwood peat swamp forest,5.74,NA
+377,-0.32542,18.17533,Hardwood peat swamp forest,5.84,NA
+378,-0.32684,18.17344,Hardwood peat swamp forest,6,"3,913"
+379,-0.2947,18.22563,Savanna,0,NA
+380,-0.09508,18.37901,Savanna,0,NA
+381,-0.09553,18.37936,Savanna,0,NA
+382,-0.1024,18.34101,Savanna,0,NA
+383,-0.10668,18.33705,Savanna,0,NA
+384,-0.10592,18.33655,Savanna,0,NA
+385,-0.10231,18.34323,Non-peat forming forest,0,NA
+386,-0.10205,18.34544,Non-peat forming forest,0,NA
+387,-0.10146,18.34765,Hardwood peat swamp forest,1.75,NA
+388,-0.10107,18.34986,Hardwood peat swamp forest,2.32,NA
+389,-0.10073,18.35198,Palm peat swamp forest,1.5,999
+390,-0.10016,18.35428,Palm peat swamp forest,2.19,NA
+391,-0.0998,18.35648,Palm peat swamp forest,1.02,NA
+392,-0.09918,18.35876,Palm peat swamp forest,0.81,NA
+393,-0.09886,18.36081,Palm peat swamp forest,1.1,NA
+394,-0.09845,18.36311,Hardwood peat swamp forest,1.72,NA
+395,-0.09789,18.36526,Non-peat forming forest,0.22,NA
+396,-0.09746,18.36744,Palm peat swamp forest,0.52,NA
+397,-0.0971,18.36955,Palm peat swamp forest,0.6,375
+398,-0.0967,18.37193,Hardwood peat swamp forest,0.89,NA
+399,-0.09618,18.37406,Hardwood peat swamp forest,0.86,NA
+400,-0.0958,18.37634,Non-peat forming forest,0,NA
+401,-0.09551,18.37778,Non-peat forming forest,0,NA
+402,-0.09548,18.37832,Savanna,0,NA
+403,-0.10195,18.34579,Water,NA,NA
+404,-0.102,18.34561,Water,NA,NA
+405,-0.10185,18.33727,Savanna,0,NA
+406,0.28568,18.52617,Water,NA,NA
+407,0.17203,18.35521,Water,NA,NA
+408,-0.04811,18.37753,Water,NA,NA
+409,0.07291,18.30176,Water,NA,NA
+410,-0.21008,19.55542,Non-peat forming forest,0,NA
+411,-0.21094,19.55741,Non-peat forming forest,0,NA
+412,-0.21185,19.55947,Non-peat forming forest,0,NA
+413,-0.21279,19.56148,Non-peat forming forest,0,NA
+414,-0.21337,19.56366,Non-peat forming forest,0,NA
+415,-0.21432,19.56574,Non-peat forming forest,0,NA
+416,-0.21474,19.56798,Non-peat forming forest,0,NA
+417,-0.21564,19.56997,Non-peat forming forest,0,NA
+418,-0.21643,19.57214,Non-peat forming forest,0,NA
+419,-0.28554,19.81305,Non-peat forming forest,0,NA
+420,-0.28757,19.81209,Hardwood peat swamp forest,0.85,NA
+421,-0.28958,19.81105,Hardwood peat swamp forest,0.81,NA
+422,-0.29168,19.8103,Hardwood peat swamp forest,1.41,NA
+423,-0.29375,19.80946,Palm peat swamp forest,2.1,"2,028"
+424,-0.29583,19.80859,Palm peat swamp forest,2.36,NA
+425,-0.29793,19.80776,Palm peat swamp forest,1.91,NA
+426,-0.29992,19.80689,Hardwood peat swamp forest,2.45,NA
+427,-0.30197,19.80598,Palm peat swamp forest,2.7,NA
+428,-0.3041,19.80512,Hardwood peat swamp forest,2.94,NA
+429,-0.30612,19.80419,Hardwood peat swamp forest,2.97,NA
+430,-0.30816,19.80328,Hardwood peat swamp forest,3.74,NA
+431,-0.31024,19.80256,Hardwood peat swamp forest,3.1,"2,667"
+432,-0.31237,19.80165,Hardwood peat swamp forest,3.15,NA
+433,-0.31438,19.80076,Hardwood peat swamp forest,3.37,NA
+434,-0.31665,19.80014,Hardwood peat swamp forest,3.45,NA
+435,-0.31869,19.7994,Hardwood peat swamp forest,4,NA
+436,-0.32079,19.79848,Hardwood peat swamp forest,4.55,NA
+437,-0.32277,19.79762,Hardwood peat swamp forest,4.51,NA
+438,-0.32495,19.79663,Hardwood peat swamp forest,4.63,NA
+439,-0.32695,19.79577,Hardwood peat swamp forest,3.9,"3,623"
+440,-0.32911,19.79484,Hardwood peat swamp forest,3.54,NA
+441,-0.3311,19.794,Hardwood peat swamp forest,4.24,NA
+442,-0.33318,19.79325,Hardwood peat swamp forest,4.37,NA
+443,-0.33519,19.79223,Hardwood peat swamp forest,4,NA
+444,-0.33725,19.79133,Hardwood peat swamp forest,4.52,NA
+445,-0.33933,19.79049,Hardwood peat swamp forest,3.62,NA
+446,-0.34142,19.78957,Non-peat forming forest,0,NA
+447,-0.34351,19.78885,Non-peat forming forest,0,NA
+448,-0.34554,19.78784,Non-peat forming forest,0,NA
+449,-0.34764,19.78703,Non-peat forming forest,0,NA
+450,-0.34967,19.78612,Non-peat forming forest,0,NA
+451,-0.35183,19.78542,Hardwood peat swamp forest,0.44,NA
+452,-0.28549,19.81397,Non-peat forming forest,0,NA
+453,-0.24825,19.66923,Water,NA,NA
+454,-0.24274,19.67304,Water,NA,NA
+455,-0.24123,19.6765,Water,NA,NA
+456,-0.2392,19.68105,Water,NA,NA
+457,-0.23537,19.68548,Non-peat forming forest,0.1,NA
+458,-0.23319,19.68605,Non-peat forming forest,0,NA
+459,-0.231,19.68637,Non-peat forming forest,0.1,NA
+460,-0.22878,19.68688,Palm peat swamp forest,0.8,NA
+461,-0.2265,19.68698,Palm peat swamp forest,1.9,"2,525"
+462,-0.22435,19.68743,Palm peat swamp forest,2.39,NA
+463,-0.2221,19.6878,Palm peat swamp forest,1.48,NA
+464,-0.21993,19.68815,Palm peat swamp forest,0.72,NA
+465,-0.21769,19.68847,Palm peat swamp forest,1.5,NA
+466,-0.21544,19.68887,Palm peat swamp forest,2.06,NA
+467,-0.21322,19.68921,Palm peat swamp forest,2.55,NA
+468,-0.21099,19.68946,Palm peat swamp forest,3.67,NA
+469,-0.20878,19.68968,Palm peat swamp forest,5.1,"4,057"
+470,-0.20651,19.69007,Palm peat swamp forest,4.13,NA
+471,-0.20433,19.69033,Palm peat swamp forest,3.92,NA
+472,-0.20209,19.69074,Palm peat swamp forest,4.27,NA
+473,-0.19992,19.69135,Palm peat swamp forest,5.1,NA
+474,-0.19783,19.69194,Palm peat swamp forest,5.48,NA
+475,-0.1956,19.69229,Palm peat swamp forest,6.02,NA
+476,-0.19346,19.69274,Palm peat swamp forest,5.91,NA
+477,-0.19118,19.69322,Palm peat swamp forest,5.9,"4,547"
+478,-0.18899,19.69376,Palm peat swamp forest,3.38,NA
+479,-0.1867,19.6936,Palm peat swamp forest,3.76,NA
+480,-0.18458,19.69428,Palm peat swamp forest,4.81,NA
+481,-0.18225,19.69437,Palm peat swamp forest,5.2,NA
+482,-0.18012,19.69482,Palm peat swamp forest,5.5,NA
+483,-0.17785,19.69534,Palm peat swamp forest,6.4,NA
+484,-0.17567,19.69569,Palm peat swamp forest,4.75,NA
+485,-0.17344,19.69599,Hardwood peat swamp forest,5.7,"3,994"
+486,-0.23571,19.68597,Non-peat forming forest,0,NA
+487,-0.23583,19.6866,Water,NA,NA
+488,-0.25678,19.66623,Water,NA,NA
+489,-0.24062,19.70176,Non-peat forming forest,0,NA
+490,-0.23964,19.70377,Hardwood peat swamp forest,0.45,NA
+491,-0.23832,19.70569,Non-peat forming forest,0,NA
+492,-0.2422,19.70402,Non-peat forming forest,0,NA
+493,-0.24377,19.7056,Hardwood peat swamp forest,1,NA
+494,-0.19051,18.85268,Non-peat forming forest,0,NA
+495,-0.18904,18.85445,Non-peat forming forest,0,NA
+496,-0.18786,18.8563,Non-peat forming forest,0.2,NA
+497,-0.18672,18.85814,Non-peat forming forest,0,NA
+498,-0.18516,18.85991,Non-peat forming forest,0,NA
+499,-0.18369,18.86159,Palm peat swamp forest,1.79,NA
+500,-0.18225,18.86334,Palm peat swamp forest,1.95,NA
+501,-0.18077,18.86496,Palm peat swamp forest,0.48,NA
+502,-0.17973,18.86696,Hardwood peat swamp forest,0.4,277
+503,-0.17844,18.86877,Hardwood peat swamp forest,1.18,NA
+504,-0.17664,18.87034,Hardwood peat swamp forest,0.97,NA
+505,-0.17556,18.87237,Hardwood peat swamp forest,1.22,NA
+506,-0.17396,18.87401,Palm peat swamp forest,1.4,NA
+507,-0.17257,18.87579,Palm peat swamp forest,1.41,NA
+508,-0.17138,18.87763,Palm peat swamp forest,0.99,NA
+509,-0.16981,18.87928,Palm peat swamp forest,0.49,NA
+510,-0.16865,18.88101,Palm peat swamp forest,1.4,"1,762"
+511,-0.16726,18.88299,Palm peat swamp forest,2.26,NA
+512,-0.16564,18.88455,Palm peat swamp forest,1.76,NA
+513,-0.16417,18.88627,Non-peat forming forest,0.25,NA
+514,-0.16267,18.88796,Palm peat swamp forest,0.9,NA
+515,-0.16137,18.88981,Palm peat swamp forest,1.41,NA
+516,-0.15994,18.8915,Palm peat swamp forest,2.13,NA
+517,-0.15858,18.89329,Palm peat swamp forest,2.23,NA
+518,-0.15712,18.89498,Palm peat swamp forest,2.1,"2,384"
+519,-0.15541,18.89679,Palm peat swamp forest,2.35,NA
+520,-0.1542,18.89844,Palm peat swamp forest,1.65,NA
+521,-0.15294,18.90035,Palm peat swamp forest,1.63,NA
+522,-0.15174,18.90223,Palm peat swamp forest,2.1,NA
+523,-0.15047,18.90406,Palm peat swamp forest,2.52,NA
+524,-0.14903,18.90579,Palm peat swamp forest,2.46,NA
+525,-0.14775,18.90763,Palm peat swamp forest,3.79,NA
+526,-0.14676,18.90966,Palm peat swamp forest,2.8,"2,556"
+527,-0.14536,18.91143,Hardwood peat swamp forest,1.69,NA
+528,-0.14411,18.91328,Hardwood peat swamp forest,3.71,NA
+529,-0.14299,18.91522,Hardwood peat swamp forest,3.94,NA
+530,-0.14065,18.91624,Hardwood peat swamp forest,4.4,NA
+531,-0.1392,18.91791,Hardwood peat swamp forest,3.82,NA
+532,-0.13772,18.91979,Hardwood peat swamp forest,5.46,NA
+533,-0.13642,18.92158,Hardwood peat swamp forest,6.03,NA
+534,-0.13482,18.92314,Hardwood peat swamp forest,5.4,"5,162"
+535,-0.1967,18.86336,Water,NA,NA
+536,-0.19601,18.86289,Savanna,0,NA
+537,-0.21477,18.83925,Savanna,0,NA
+538,-0.2214,18.85208,Non-peat forming forest,0,NA
+539,-0.2223,18.85,Non-peat forming forest,0,NA
+540,-0.22355,18.84815,Non-peat forming forest,0,NA
+541,-0.22477,18.84632,Non-peat forming forest,0,NA
+542,-0.22602,18.84437,Non-peat forming forest,0,NA
+543,-0.22701,18.84238,Non-peat forming forest,0,NA
+544,-0.22837,18.84056,Non-peat forming forest,0,NA
+545,-0.22939,18.83873,Non-peat forming forest,0,NA
+546,-0.23078,18.83689,Non-peat forming forest,0,NA
+547,-0.23147,18.83466,Non-peat forming forest,0,NA
+548,-0.23309,18.8329,Non-peat forming forest,0,NA
+549,-0.23443,18.83132,Non-peat forming forest,0,NA
+550,-0.23537,18.82909,Non-peat forming forest,0,NA
+551,-0.21295,18.8407,Savanna,0,NA
+552,1.45379,18.89903,Non-peat forming forest,0,NA
+553,1.45543,18.89747,Savanna,0,NA
+554,1.45697,18.89583,Savanna,0,NA
+555,1.45842,18.89411,Savanna,0,NA
+556,1.46013,18.89266,Savanna,0,NA
+557,1.46226,18.8919,Non-peat forming forest,0,NA
+558,1.46388,18.89031,Non-peat forming forest,0,NA
+559,1.46576,18.8891,Non-peat forming forest,0,NA
+560,1.46741,18.88755,Non-peat forming forest,0,NA
+561,1.46912,18.88611,Non-peat forming forest,0.05,NA
+562,1.47085,18.88469,Non-peat forming forest,0,NA
+563,1.47252,18.88326,Non-peat forming forest,0.01,NA
+564,1.47422,18.8818,Hardwood peat swamp forest,0.3,56
+565,1.47597,18.88043,Non-peat forming forest,0.19,NA
+566,1.47762,18.87893,Hardwood peat swamp forest,0.32,NA
+567,1.4795,18.87769,Hardwood peat swamp forest,0.5,NA
+568,1.48116,18.87621,Hardwood peat swamp forest,0.4,512
+569,1.48273,18.87463,Hardwood peat swamp forest,0.6,NA
+570,1.48461,18.87325,Hardwood peat swamp forest,1.43,NA
+571,1.48631,18.8718,Hardwood peat swamp forest,0.93,NA
+572,1.48816,18.87047,Hardwood peat swamp forest,0.7,867
+573,1.48988,18.86894,Hardwood peat swamp forest,0.88,NA
+574,1.49163,18.86753,Hardwood peat swamp forest,1.28,NA
+575,1.49333,18.86608,Hardwood peat swamp forest,0.88,NA
+576,1.49505,18.86459,Hardwood peat swamp forest,0.5,407
+577,1.49687,18.8632,Hardwood peat swamp forest,1.46,NA
+578,1.49858,18.86173,Hardwood peat swamp forest,0.91,NA
+579,1.50045,18.86037,Hardwood peat swamp forest,1.73,NA
+580,1.50223,18.859,Hardwood peat swamp forest,1.4,"2,217"
+581,1.50414,18.85771,Hardwood peat swamp forest,2.77,NA
+582,1.50592,18.85632,Hardwood peat swamp forest,1.72,NA
+583,1.50767,18.85494,Hardwood peat swamp forest,1.95,NA
+584,1.50933,18.8534,Hardwood peat swamp forest,1.6,NA
+585,1.51109,18.85201,Hardwood peat swamp forest,1.77,NA
+586,1.51267,18.85036,Hardwood peat swamp forest,1.6,NA
+587,1.51436,18.84885,Hardwood peat swamp forest,2.01,NA
+588,1.51616,18.84751,Hardwood peat swamp forest,2.3,"2,187"
+589,1.51787,18.84609,Palm peat swamp forest,1.81,NA
+590,1.51946,18.84455,Hardwood peat swamp forest,1.14,NA
+591,1.52112,18.84307,Hardwood peat swamp forest,2.14,NA
+592,1.52295,18.84169,Hardwood peat swamp forest,1.9,NA
+593,1.52468,18.84029,Hardwood peat swamp forest,1.82,NA
+594,1.52646,18.83883,Hardwood peat swamp forest,1.94,NA
+595,1.52816,18.83739,Hardwood peat swamp forest,1.69,NA
+596,1.52985,18.83588,Hardwood peat swamp forest,1.3,"1,138"
+597,1.54022,18.82667,Hardwood peat swamp forest,2.28,NA
+598,1.50325,18.95113,Savanna,0,NA
+599,1.50489,18.95279,Non-peat forming forest,0.15,NA
+600,1.50663,18.95423,Non-peat forming forest,0,NA
+601,1.50353,18.95071,Savanna,0,NA
+602,1.50476,18.94883,Non-peat forming forest,0,NA
+603,1.50602,18.94706,Non-peat forming forest,0,NA
+604,1.50735,18.94523,Hardwood peat swamp forest,0.45,NA
+605,1.35505,18.90672,Non-peat forming forest,0,NA
+606,1.35339,18.90818,Non-peat forming forest,0,NA
+607,1.35195,18.90995,Non-peat forming forest,0,NA
+608,1.35038,18.91148,Non-peat forming forest,0,NA
+609,1.34896,18.91324,Non-peat forming forest,0,NA
+610,1.34766,18.91504,Non-peat forming forest,0,NA
+611,1.34613,18.91666,Non-peat forming forest,0,NA
+612,1.34465,18.91835,Non-peat forming forest,0,NA
+613,1.34325,18.92018,Non-peat forming forest,0,NA
+614,1.34178,18.92189,Non-peat forming forest,0,NA
+615,1.34031,18.92363,Non-peat forming forest,0,NA
+616,1.33876,18.92525,Non-peat forming forest,0,NA
+617,1.33735,18.92702,Non-peat forming forest,0,NA
+618,0.85633,18.33914,Non-peat forming forest,0,NA
+619,0.85576,18.33695,Non-peat forming forest,0,NA
+620,0.85511,18.33482,Non-peat forming forest,0,NA
+621,0.85453,18.33265,Hardwood peat swamp forest,0.74,NA
+622,0.85392,18.33043,Non-peat forming forest,0,NA
+623,0.85324,18.32834,Non-peat forming forest,0,NA
+624,0.8526,18.32616,Hardwood peat swamp forest,0.3,NA
+625,0.32802,18.24985,Non-peat forming forest,0,NA
+626,0.32839,18.24759,Non-peat forming forest,0,NA
+627,0.32863,18.24545,Non-peat forming forest,0,NA
+628,0.32906,18.24321,Non-peat forming forest,0.06,NA
+629,0.32938,18.24102,Hardwood peat swamp forest,0.5,84
+630,0.32977,18.23878,Hardwood peat swamp forest,1,NA
+631,0.33014,18.23658,Non-peat forming forest,0,NA
+632,0.33039,18.23437,Non-peat forming forest,0,NA
+633,0.3307,18.23214,Non-peat forming forest,0,NA
+634,0.33097,18.22995,Hardwood peat swamp forest,0.8,NA
+635,0.33132,18.22771,Hardwood peat swamp forest,0.63,NA
+636,0.33161,18.2255,Hardwood peat swamp forest,1.57,NA
+637,0.33198,18.22333,Hardwood peat swamp forest,0.6,373
+638,0.3323,18.2211,Palm peat swamp forest,1.89,NA
+639,0.33262,18.21887,Palm peat swamp forest,3.71,NA
+640,0.33298,18.21663,Non-peat forming forest,0,NA
+641,0.33336,18.21435,Palm peat swamp forest,0.4,191
+642,0.33365,18.21212,Palm peat swamp forest,0.96,NA
+643,0.33408,18.20989,Palm peat swamp forest,1.77,NA
+644,0.33427,18.20764,Palm peat swamp forest,1.87,NA
+645,0.33466,18.20542,Palm peat swamp forest,1.7,NA
+646,0.33505,18.20315,Palm peat swamp forest,1.78,NA
+647,0.33533,18.20089,Palm peat swamp forest,2.58,NA
+648,0.33569,18.19863,Palm peat swamp forest,2.01,NA
+649,0.33605,18.19639,Palm peat swamp forest,2.5,"1,125"
+650,1.0163,18.51671,Non-peat forming forest,0,NA
+651,1.01483,18.51848,Non-peat forming forest,0,NA
+652,1.01348,18.52023,Non-peat forming forest,0,NA
+653,1.01208,18.52198,Non-peat forming forest,0,NA
+654,1.01085,18.52388,Palm peat swamp forest,0.6,57
+655,1.00954,18.52573,Non-peat forming forest,0,NA
+656,1.00825,18.52757,Non-peat forming forest,0,NA
+657,1.00705,18.52938,Hardwood peat swamp forest,0.38,NA
+658,1.0058,18.53126,Non-peat forming forest,0,NA
+659,1.00452,18.53312,Palm peat swamp forest,0.34,NA
+660,1.00321,18.53496,Palm peat swamp forest,1.09,NA
+661,1.00196,18.53683,Palm peat swamp forest,0.48,NA
+662,1.00066,18.53868,Palm peat swamp forest,0.9,NA
+663,0.99944,18.54058,Palm peat swamp forest,0.98,NA
+664,0.99813,18.54244,Palm peat swamp forest,1.69,NA
+665,0.99684,18.5443,Palm peat swamp forest,1.99,NA
+666,0.99557,18.54614,Palm peat swamp forest,1.5,"1,095"
+667,0.99423,18.54793,Hardwood peat swamp forest,0.95,NA
+668,0.99296,18.54988,Hardwood peat swamp forest,1.45,NA
+669,0.99168,18.55176,Hardwood peat swamp forest,2.1,NA
+670,0.99039,18.5536,Hardwood peat swamp forest,0.3,NA
+671,0.98911,18.55545,Palm peat swamp forest,1.77,NA
+672,0.98782,18.55741,Palm peat swamp forest,1.57,NA
+673,0.9866,18.55932,Palm peat swamp forest,2.75,NA
+674,0.98522,18.56108,Palm peat swamp forest,1.4,"1,091"
+924,1.34651,18.90411,Non-peat forming forest,0.15,NA
+925,1.34635,18.90265,Non-peat forming forest,0,NA
+926,-0.30553,21.25445,Savanna,0,NA
+927,-0.27753,21.2537,Hardwood peat swamp forest,2.1,NA
+928,-1.14359,19.78914,Palm peat swamp forest,1.6,NA
+929,-1.14139,19.78281,Palm peat swamp forest,2.6,NA
+930,-1.14186,19.78173,Palm peat swamp forest,1.6,NA
+931,-1.14368,19.78921,Palm peat swamp forest,3.13,NA
+932,-0.85641,19.80802,Palm peat swamp forest,2.5,NA
+933,-0.85304,19.80838,Palm peat swamp forest,2,NA
+934,-0.85669,19.80808,Palm peat swamp forest,1.8,NA
+935,-0.03268,18.18902,Savanna,0,NA
+936,-0.03531,18.18745,Non-peat forming forest,0,NA
+937,-0.04,18.1967,Non-peat forming forest,0,NA
+938,1.79606,19.40098,Non-peat forming forest,0.08,NA
+939,1.79138,19.39837,Hardwood peat swamp forest,1.4,NA
+940,1.80466,19.40077,Palm peat swamp forest,1.97,NA
+941,1.55477,19.04442,Non-peat forming forest,0.16,NA
+942,1.6375,19.09445,Non-peat forming forest,0.16,NA
+943,1.90059,19.77238,Non-peat forming forest,0.02,NA
+944,1.91555,19.77453,Non-peat forming forest,0.25,NA
+945,-1.9724,18.28199,Hardwood peat swamp forest,1.06,NA
+946,-1.77453,18.32017,Hardwood peat swamp forest,2.1,NA
+947,1.48647,17.43499,Non-peat forming forest,0,NA
+948,1.15778,17.30222,Non-peat forming forest,0,NA
+949,1.16667,17.31067,Non-peat forming forest,0,NA
+950,1.15511,17.32444,Non-peat forming forest,0,NA
+951,1.36164,17.42678,Non-peat forming forest,0,NA
+952,2.65824,16.62069,Non-peat forming forest,0,NA
+953,2.64052,16.5537,Non-peat forming forest,0,NA
+954,2.61529,16.53477,Non-peat forming forest,0,NA
+955,2.40148,16.46591,Non-peat forming forest,0,NA
+956,2.35894,16.42834,Non-peat forming forest,0,NA
+957,2.3551,16.35945,Non-peat forming forest,0,NA
+958,2.24063,16.4002,Non-peat forming forest,0,NA
+959,1.94942,16.49453,Non-peat forming forest,0,NA
+960,2.19857,16.36187,Non-peat forming forest,0,NA
+961,-1.69492,20.57155,Non-peat forming forest,0,NA
+962,-1.69497,20.56589,Non-peat forming forest,0,NA
+963,-1.70118,20.56604,Non-peat forming forest,0,NA
+964,-1.70065,20.57206,Non-peat forming forest,0,NA
+965,-1.74129,20.71958,Non-peat forming forest,0,NA
+966,-1.74154,20.72133,Non-peat forming forest,0,NA
+967,-1.73796,20.72146,Non-peat forming forest,0,NA
+968,-1.73786,20.72021,Non-peat forming forest,0,NA
+969,2.0445,16.10592,Non-peat forming forest,0,NA
+970,2.02978,16.12983,Non-peat forming forest,0,NA
+971,1.99661,16.09847,Non-peat forming forest,0,NA
+972,1.98978,16.15889,Non-peat forming forest,0,NA
+973,2.00006,16.20183,Non-peat forming forest,0,NA
+974,1.98853,16.23636,Non-peat forming forest,0,NA
+975,2.07781,16.15333,Non-peat forming forest,0,NA
+976,2.12508,16.17722,Non-peat forming forest,0,NA
+977,2.11414,16.22031,Non-peat forming forest,0,NA
+978,2.08522,16.2335,Non-peat forming forest,0,NA
+979,2.10897,16.29403,Non-peat forming forest,0,NA
+980,2.11197,16.32328,Non-peat forming forest,0,NA
+981,2.08114,16.33067,Non-peat forming forest,0,NA
+982,2.06467,16.34828,Non-peat forming forest,0,NA
+983,2.09069,16.36522,Non-peat forming forest,0,NA
+984,2.08506,16.3855,Non-peat forming forest,0,NA
+985,2.20564,16.315,Non-peat forming forest,0,NA
+986,2.21433,16.34297,Non-peat forming forest,0,NA
+987,2.18881,16.35908,Non-peat forming forest,0,NA
+988,2.18889,16.39664,Non-peat forming forest,0,NA
+989,2.25839,16.37961,Non-peat forming forest,0,NA
+990,2.29636,16.38744,Non-peat forming forest,0,NA
+991,2.34644,16.32022,Non-peat forming forest,0,NA
+992,2.34317,16.34931,Non-peat forming forest,0,NA
+993,2.37892,16.37522,Non-peat forming forest,0,NA
+994,2.37375,16.39497,Non-peat forming forest,0,NA
+995,2.39981,16.42744,Non-peat forming forest,0,NA
+996,2.37147,16.42561,Non-peat forming forest,0,NA
+997,2.40178,16.46389,Non-peat forming forest,0,NA
+998,2.37131,16.47361,Non-peat forming forest,0,NA
+999,0.79972,24.49247,Non-peat forming forest,0,NA
+1000,0.78883,24.51933,Non-peat forming forest,0,NA
+1001,0.79819,24.48806,Non-peat forming forest,0,NA
+1002,0.81342,24.4855,Non-peat forming forest,0,NA
+1003,0.76622,24.5105,Non-peat forming forest,0,NA
+1004,0.86828,24.47003,Non-peat forming forest,0,NA
+1005,0.82742,24.52256,Non-peat forming forest,0,NA
+1006,0.82775,24.53242,Non-peat forming forest,0,NA
+1007,0.79753,24.49794,Non-peat forming forest,0,NA
+1008,0.80836,24.52753,Non-peat forming forest,0,NA
+1009,0.86781,24.457,Non-peat forming forest,0,NA
+1010,0.78938,24.51745,Non-peat forming forest,0,NA
+1011,0.79488,24.49193,Non-peat forming forest,0,NA
+1012,0.79591,24.49423,Non-peat forming forest,0,NA
+1013,0.79311,24.49013,Non-peat forming forest,0,NA
+1014,0.7921,24.49717,Non-peat forming forest,0,NA
+1015,0.81406,24.51311,Non-peat forming forest,0,NA
+1016,0.78086,24.52061,Non-peat forming forest,0,NA
+1017,0.78736,24.52353,Non-peat forming forest,0,NA
+1018,0.8145,24.49414,Non-peat forming forest,0,NA
+1019,0.80306,24.48792,Non-peat forming forest,0,NA
+1020,0.99256,24.53906,Non-peat forming forest,0,NA
+1021,0.98981,24.53853,Non-peat forming forest,0,NA
+1022,0.98661,24.53856,Non-peat forming forest,0,NA
+1023,0.2884,25.3339,Non-peat forming forest,0,NA
+1024,0.2903,25.3338,Non-peat forming forest,0,NA
+1025,0.2913,25.3339,Non-peat forming forest,0,NA
+1026,0.2921,25.3339,Non-peat forming forest,0,NA
+1027,0.293,25.3331,Non-peat forming forest,0,NA
+1028,0.2939,25.3331,Non-peat forming forest,0,NA
+1029,0.2931,25.3339,Non-peat forming forest,0,NA
+1030,0.2939,25.334,Non-peat forming forest,0,NA
+1031,0.2948,25.3332,Non-peat forming forest,0,NA
+1032,0.2948,25.334,Non-peat forming forest,0,NA
+1033,0.2956,25.3332,Non-peat forming forest,0,NA
+1034,0.2966,25.3333,Non-peat forming forest,0,NA
+1035,0.2957,25.3341,Non-peat forming forest,0,NA
+1036,0.2965,25.3341,Non-peat forming forest,0,NA
+1037,0.2974,25.3342,Non-peat forming forest,0,NA
+1038,0.293,25.3322,Non-peat forming forest,0,NA
+1039,0.294,25.3322,Non-peat forming forest,0,NA
+1040,0.2948,25.3322,Non-peat forming forest,0,NA
+1041,0.2966,25.3323,Non-peat forming forest,0,NA
+1042,0.2975,25.3324,Non-peat forming forest,0,NA
+1043,-0.62983,16.18388,Savanna,0,NA
+1044,-1.25588,16.30855,Savanna,0,NA
+1045,-0.7297,16.62821,Savanna,0,NA
+1046,-1.2057,16.67319,Savanna,0,NA
+1047,-2.09559,16.71159,Savanna,0,NA
+1048,-1.01483,17.3657,Savanna,0,NA
+1049,-1.99994,17.5679,Savanna,0,NA
+1050,-0.71341,17.61708,Savanna,0,NA
+1051,-1.52126,17.6691,Savanna,0,NA
+1052,-1.71855,17.70129,Savanna,0,NA
+1053,-0.61774,17.79927,Savanna,0,NA
+1054,-0.57631,17.80419,Savanna,0,NA
+1055,-1.73877,17.83315,Savanna,0,NA
+1056,-0.57357,17.84253,Savanna,0,NA
+1057,-1.7908,17.97512,Savanna,0,NA
+1058,-0.61399,18.06876,Savanna,0,NA
+1059,-2.8791,18.12504,Savanna,0,NA
+1060,-0.68106,18.1994,Savanna,0,NA
+1061,-0.69605,18.21875,Savanna,0,NA
+1062,-0.67479,18.24363,Savanna,0,NA
+1063,-0.64545,18.25202,Savanna,0,NA
+1064,-0.60725,18.25412,Savanna,0,NA
+1065,0.09347,18.29046,Savanna,0,NA
+1066,0.11483,18.29588,Savanna,0,NA
+1067,0.00502,18.3256,Savanna,0,NA
+1068,0.20269,18.32569,Savanna,0,NA
+1069,0.13289,18.32917,Savanna,0,NA
+1070,0.00899,18.33152,Savanna,0,NA
+1071,-0.00875,18.33858,Savanna,0,NA
+1072,0.22706,18.33888,Savanna,0,NA
+1073,0.14978,18.34238,Savanna,0,NA
+1074,0.04771,18.34408,Savanna,0,NA
+1075,0.12619,18.3454,Savanna,0,NA
+1076,-0.00287,18.34908,Savanna,0,NA
+1077,0.03983,18.35106,Savanna,0,NA
+1078,-0.05111,18.35411,Savanna,0,NA
+1079,0.0442,18.35581,Savanna,0,NA
+1080,-0.06218,18.35754,Savanna,0,NA
+1081,0.14395,18.3606,Savanna,0,NA
+1082,-0.07372,18.36172,Savanna,0,NA
+1083,0.04019,18.36199,Savanna,0,NA
+1084,-0.00062,18.36583,Savanna,0,NA
+1085,0.17848,18.36669,Savanna,0,NA
+1086,0.16897,18.36748,Savanna,0,NA
+1087,0.22926,18.36765,Savanna,0,NA
+1088,0.24266,18.37251,Savanna,0,NA
+1089,0.04585,18.37349,Savanna,0,NA
+1090,0.02251,18.37398,Savanna,0,NA
+1091,0.04144,18.38019,Savanna,0,NA
+1092,0.04964,18.38162,Savanna,0,NA
+1093,0.25693,18.40138,Savanna,0,NA
+1094,-0.03816,18.4168,Savanna,0,NA
+1095,0.25603,18.4302,Savanna,0,NA
+1096,-0.05286,18.45894,Savanna,0,NA
+1097,-0.05623,18.49687,Savanna,0,NA
+1098,-0.0667,18.51392,Savanna,0,NA
+1099,-2.0558,18.76344,Savanna,0,NA
+1100,-0.15221,18.80034,Savanna,0,NA
+1101,-2.86303,19.20989,Savanna,0,NA
+1102,3.13515,19.29416,Savanna,0,NA
+1103,2.40412,19.50206,Savanna,0,NA
+1104,1.92277,19.5172,Savanna,0,NA
+1105,2.76183,19.95431,Savanna,0,NA
+1106,2.29044,20.4896,Savanna,0,NA
+1107,2.31955,20.59651,Savanna,0,NA
+1108,-3.09235,21.95916,Savanna,0,NA
+1109,-3.13821,23.01914,Savanna,0,NA
+1110,-3.05089,23.67039,Savanna,0,NA
+1111,-2.69324,23.94084,Savanna,0,NA
+1112,-2.75615,23.95433,Savanna,0,NA
+1113,-1.92125,23.96412,Savanna,0,NA
+1114,-1.85591,24.09226,Savanna,0,NA
+1115,-2.18655,24.28622,Savanna,0,NA
+1116,-2.27891,24.31735,Savanna,0,NA
+1117,-2.62751,24.34728,Savanna,0,NA
+1118,-2.99677,24.93394,Savanna,0,NA
+1119,-2.79719,25.07131,Savanna,0,NA
+1120,-2.98129,25.08176,Savanna,0,NA
+1121,-2.52795,25.12929,Savanna,0,NA
+1122,-2.58009,25.1424,Savanna,0,NA
+1123,-2.70052,25.16422,Savanna,0,NA
+1124,-2.58897,25.16481,Savanna,0,NA
+1125,-2.89988,25.18913,Savanna,0,NA
+1126,-2.55696,25.20855,Savanna,0,NA
+1127,-2.48549,25.22793,Savanna,0,NA
+1128,-2.67443,25.26073,Savanna,0,NA
+1129,-2.85622,25.28902,Savanna,0,NA
+1130,1.30267,16.99111,Savanna,0,NA
+1131,1.28578,16.99956,Savanna,0,NA
+1132,1.16,17,Savanna,0,NA
+1133,1.25067,17.00489,Savanna,0,NA
+1134,1.19378,17.00756,Savanna,0,NA
+1135,1.12889,17.02133,Savanna,0,NA
+1136,1.05333,17.05067,Savanna,0,NA
+1137,1.00222,17.05644,Savanna,0,NA
+1138,0.89244,17.07822,Savanna,0,NA
+1139,0.80756,17.10578,Savanna,0,NA
+1140,0.73378,17.11467,Savanna,0,NA
+1141,0.952,17.12933,Savanna,0,NA
+1142,0.99511,17.144,Savanna,0,NA
+1143,0.65422,17.152,Savanna,0,NA
+1144,-0.852,17.17156,Savanna,0,NA
+1145,1.036,17.20578,Savanna,0,NA
+1146,-0.71022,17.25289,Savanna,0,NA
+1147,0.50222,17.27467,Savanna,0,NA
+1148,1.08267,17.31422,Savanna,0,NA
+1149,1.12178,17.33467,Savanna,0,NA
+1150,1.68889,17.34578,Savanna,0,NA
+1151,-0.37556,17.35067,Savanna,0,NA
+1152,-0.24222,17.364,Savanna,0,NA
+1153,-0.24044,17.37244,Savanna,0,NA
+1154,1.65689,17.37378,Savanna,0,NA
+1155,1.53689,17.38178,Savanna,0,NA
+1156,0.41689,17.39156,Savanna,0,NA
+1157,1.50489,17.39689,Savanna,0,NA
+1158,-0.15956,17.39956,Savanna,0,NA
+1159,-0.11422,17.40978,Savanna,0,NA
+1160,-0.26356,17.41333,Savanna,0,NA
+1161,1.48222,17.41689,Savanna,0,NA
+1162,1.48311,17.41822,Savanna,0,NA
+1163,1.48444,17.41956,Savanna,0,NA
+1164,1.47644,17.42356,Savanna,0,NA
+1165,0.01467,17.43333,Savanna,0,NA
+1166,1.24311,17.436,Savanna,0,NA
+1167,1.35689,17.44133,Savanna,0,NA
+1168,1.43733,17.44356,Savanna,0,NA
+1169,1.31644,17.444,Savanna,0,NA
+1170,1.376,17.46133,Savanna,0,NA
+1171,0.24089,17.46356,Savanna,0,NA
+1172,0.07156,17.48,Savanna,0,NA
+1173,0.09778,17.48756,Savanna,0,NA
+1174,1.01733,17.77511,Savanna,0,NA
+1175,0.97067,17.812,Savanna,0,NA
+1176,0.55289,17.87067,Savanna,0,NA
+1177,1.21733,17.92311,Savanna,0,NA
+1178,1.21689,17.92622,Savanna,0,NA
+1179,1.62,17.98267,Savanna,0,NA
+1180,0.51422,18.00756,Savanna,0,NA
+1181,0.57956,18.01156,Savanna,0,NA
+1182,1.05156,18.21644,Savanna,0,NA
+1183,1.67111,18.47956,Savanna,0,NA
+1184,1.32578,18.70489,Savanna,0,NA
+1185,1.44222,18.86844,Savanna,0,NA
+1186,-0.46287,17.80508,Water,NA,NA
+1187,-0.58413,17.83006,Water,NA,NA
+1188,-0.59222,17.88888,Water,NA,NA
+1189,-0.65827,17.99057,Water,NA,NA
+1190,-0.26358,18.01577,Water,NA,NA
+1191,-0.20564,18.07652,Water,NA,NA
+1192,-0.81684,18.07849,Water,NA,NA
+1193,-0.58061,18.08726,Water,NA,NA
+1194,-0.67885,18.08915,Water,NA,NA
+1195,-0.13585,18.11617,Water,NA,NA
+1196,-0.94202,18.1248,Water,NA,NA
+1197,-0.05318,18.16372,Water,NA,NA
+1198,-1.75955,18.23321,Water,NA,NA
+1199,0.07652,18.27907,Water,NA,NA
+1200,-2.41466,18.30276,Water,NA,NA
+1201,-2.07496,18.32824,Water,NA,NA
+1202,0.05668,18.3367,Water,NA,NA
+1203,-0.065,18.35717,Water,NA,NA
+1204,0.12197,18.36322,Water,NA,NA
+1205,0.13099,18.36518,Water,NA,NA
+1206,0.02287,18.36932,Water,NA,NA
+1207,0.18644,18.3732,Water,NA,NA
+1208,0.05337,18.38056,Water,NA,NA
+1209,-0.10029,18.38414,Water,NA,NA
+1210,-0.04316,18.39845,Water,NA,NA
+1211,-0.1194,18.40387,Water,NA,NA
+1212,-1.64107,18.4059,Water,NA,NA
+1213,0.25093,18.44471,Water,NA,NA
+1214,-0.04376,18.44644,Water,NA,NA
+1215,-0.13627,18.45577,Water,NA,NA
+1216,0.28351,18.4581,Water,NA,NA
+1217,0.26961,18.48541,Water,NA,NA
+1218,0.27401,18.50042,Water,NA,NA
+1219,0.26189,18.51988,Water,NA,NA
+1220,-0.1428,18.52198,Water,NA,NA
+1221,0.26344,18.53079,Water,NA,NA
+1222,-0.15109,18.53557,Water,NA,NA
+1223,0.32023,18.54868,Water,NA,NA
+1224,-0.33552,18.55369,Water,NA,NA
+1225,-0.14868,18.5537,Water,NA,NA
+1226,-0.35099,18.56481,Water,NA,NA
+1227,-1.52408,18.56481,Water,NA,NA
+1228,-0.09532,18.57032,Water,NA,NA
+1229,-0.19634,18.57638,Water,NA,NA
+1230,-0.20192,18.57904,Water,NA,NA
+1231,-0.22104,18.58605,Water,NA,NA
+1232,-2.05373,18.58921,Water,NA,NA
+1233,0.27857,18.59921,Water,NA,NA
+1234,0.26777,18.61355,Water,NA,NA
+1235,0.86129,18.65246,Water,NA,NA
+1236,0.28148,18.65411,Water,NA,NA
+1237,-1.46012,18.67932,Water,NA,NA
+1238,-0.10614,18.68173,Water,NA,NA
+1239,0.33064,18.68442,Water,NA,NA
+1240,-1.84888,18.71476,Water,NA,NA
+1241,-1.55319,18.72572,Water,NA,NA
+1242,0.30406,18.73123,Water,NA,NA
+1243,-1.53822,18.8431,Water,NA,NA
+1244,-1.72373,18.84702,Water,NA,NA
+1245,0.31915,18.85669,Water,NA,NA
+1246,1.0375,18.8737,Water,NA,NA
+1247,-0.25975,18.89632,Water,NA,NA
+1248,-0.26222,18.98912,Water,NA,NA
+1249,-0.3455,19.02819,Water,NA,NA
+1250,1.55391,19.09502,Water,NA,NA
+1251,0.33585,19.11188,Water,NA,NA
+1252,-0.42002,19.32866,Water,NA,NA
+1253,0.35851,19.35296,Water,NA,NA
+1254,1.27853,19.46659,Water,NA,NA
+1255,0.43261,19.59274,Water,NA,NA
+1256,-1.009,19.61414,Water,NA,NA
+1257,0.42467,19.69764,Water,NA,NA
+1258,-0.25509,19.78875,Water,NA,NA
+1259,1.92414,20.03006,Water,NA,NA
+1260,1.99588,20.75203,Water,NA,NA
+1261,-0.34637,20.76372,Water,NA,NA
+1262,1.4082,23.40309,Water,NA,NA
+1263,0.74675,24.37886,Water,NA,NA
+1264,-0.12133,16.43778,Water,NA,NA
+1265,-0.75067,16.54889,Water,NA,NA
+1266,-0.34622,16.57378,Water,NA,NA
+1267,-0.48089,16.62267,Water,NA,NA
+1268,-0.71511,16.64267,Water,NA,NA
+1269,-1.59422,16.67244,Water,NA,NA
+1270,-1.59467,16.67289,Water,NA,NA
+1271,-1.59378,16.67289,Water,NA,NA
+1272,-1.59422,16.67333,Water,NA,NA
+1273,-1.59378,16.67378,Water,NA,NA
+1274,-1.59333,16.67422,Water,NA,NA
+1275,-0.82756,16.71156,Water,NA,NA
+1276,0.49156,16.73689,Water,NA,NA
+1277,-0.99511,16.75244,Water,NA,NA
+1278,-1.14622,16.79822,Water,NA,NA
+1279,-1.23511,16.80533,Water,NA,NA
+1280,-1.10178,17.05822,Water,NA,NA
+1281,-1.10133,17.05867,Water,NA,NA
+1282,0.83733,17.08178,Water,NA,NA
+1283,0.86222,17.09467,Water,NA,NA
+1284,0.73378,17.12844,Water,NA,NA
+1285,-0.86978,17.14044,Water,NA,NA
+1286,0.21956,17.14267,Water,NA,NA
+1287,-0.49022,17.15111,Water,NA,NA
+1288,1.35467,17.15244,Water,NA,NA
+1289,1.01911,17.16444,Water,NA,NA
+1290,-0.60711,17.28267,Water,NA,NA
+1291,0.50933,17.28933,Water,NA,NA
+1292,-0.35822,17.35867,Water,NA,NA
+1293,-0.24667,17.38444,Water,NA,NA
+1294,-0.15822,17.39333,Water,NA,NA
+1295,0.29111,17.396,Water,NA,NA
+1296,1.19244,17.40667,Water,NA,NA
+1297,0,17.44533,Water,NA,NA
+1298,1.356,17.45689,Water,NA,NA
+1299,1.384,17.47511,Water,NA,NA
+1300,0.07556,17.47644,Water,NA,NA
+1301,0.09556,17.47956,Water,NA,NA
+1302,-0.77511,17.51422,Water,NA,NA
+1303,-0.51644,17.708,Water,NA,NA
+1304,0.64178,17.85822,Water,NA,NA
+1305,-0.40711,17.87156,Water,NA,NA
+1306,1.21422,17.93111,Water,NA,NA
+1307,1.21556,17.93244,Water,NA,NA
+1308,1.24978,17.94089,Water,NA,NA
+1309,1.28356,17.94533,Water,NA,NA
+1310,1.35467,17.96178,Water,NA,NA
+1311,0.59822,18.00044,Water,NA,NA
+1312,-0.19333,18.008,Water,NA,NA
+1313,-0.68578,18.04267,Water,NA,NA
+1314,1.59244,18.06489,Water,NA,NA
+1315,2.19156,18.08578,Water,NA,NA
+1316,0.79956,18.10089,Water,NA,NA
+1317,-0.11467,18.11956,Water,NA,NA
+1318,0.07289,18.27333,Water,NA,NA
+1319,0.37733,18.30444,Water,NA,NA
+1320,-1.668,18.308,Water,NA,NA
+1321,0.72222,18.34756,Water,NA,NA
+1322,-0.05422,18.47111,Water,NA,NA
+1323,3.05689,18.528,Water,NA,NA
+1324,-1.556,18.54044,Water,NA,NA
+1325,-1.55511,18.54133,Water,NA,NA
+1326,-1.55556,18.54178,Water,NA,NA
+1327,-0.16,18.56844,Water,NA,NA
+1328,-0.15956,18.56933,Water,NA,NA
+1329,-0.15911,18.56978,Water,NA,NA
+1330,-0.15956,18.57067,Water,NA,NA
+1331,1.25822,18.68622,Water,NA,NA
+1332,-0.10711,18.76711,Water,NA,NA
+1333,-0.27333,18.93956,Water,NA,NA
+1334,-0.23333,19.32133,Water,NA,NA
+1335,1.89644,19.86311,Water,NA,NA
+1336,-0.26756,20.16356,Water,NA,NA
+1337,2.13156,21.51333,Water,NA,NA
+1338,1.89289,22.94667,Water,NA,NA
+1339,-2.99324,25.23624,Non-peat forming forest,0,NA
+1340,-3.10883,25.24627,Non-peat forming forest,0,NA
+1341,-3.13435,25.34121,Non-peat forming forest,0,NA
+1342,-3.14417,25.34173,Non-peat forming forest,0,NA
+1343,-3.16807,25.35638,Non-peat forming forest,0,NA
+1344,-3.16299,25.35458,Non-peat forming forest,0,NA
+1345,-3.16138,25.35511,Non-peat forming forest,0,NA
+1346,-3.15038,25.38843,Non-peat forming forest,0,NA
+1347,-3.14714,25.38556,Non-peat forming forest,0,NA
+1348,-3.14519,25.38388,Non-peat forming forest,0,NA
+1349,-3.08121,25.52633,Non-peat forming forest,0,NA
+1350,-3.0829,25.53087,Non-peat forming forest,0,NA
+1351,-2.98713,25.23463,Non-peat forming forest,0,NA
+1352,-3.10737,25.24548,Non-peat forming forest,0,NA
+1353,-3.08388,25.53199,Non-peat forming forest,0,NA
+1354,-3.04047,25.54453,Non-peat forming forest,0,NA
+1355,-3.04169,25.54382,Non-peat forming forest,0,NA
+1356,-3.04193,25.54291,Non-peat forming forest,0,NA
+1357,-3.05551,25.5374,Non-peat forming forest,0,NA
+1358,-3.05619,25.53703,Non-peat forming forest,0,NA
+1359,-3.18444,25.59861,Non-peat forming forest,0,NA
+1360,-3.02496,25.52167,Non-peat forming forest,0,NA
+1361,-3.02533,25.5205,Non-peat forming forest,0,NA
+1362,-3.02925,25.51641,Non-peat forming forest,0,NA
+1363,-3.10614,25.24494,Non-peat forming forest,0,NA
+1364,-3.03014,25.51927,Non-peat forming forest,0,NA
+1365,-3.13575,25.31343,Non-peat forming forest,0,NA
+1366,-3.13649,25.31349,Non-peat forming forest,0,NA
+1367,-3.13696,25.31466,Non-peat forming forest,0,NA
+1368,-3.13477,25.32269,Non-peat forming forest,0,NA
+1369,-3.13551,25.32354,Non-peat forming forest,0,NA
+1370,-3.13403,25.34236,Non-peat forming forest,0,NA
+1371,-3.00837,24.91437,Savanna,0,NA
+1372,-2.23132,25.65327,Savanna,0,NA
+1373,-2.94452,24.92194,Savanna,0,NA
+1374,-1.14264,25.45154,Non-peat forming forest,0,NA
+1375,-0.51224,25.00935,Savanna,0,NA
+1376,-0.37363,25.36205,Non-peat forming forest,0,NA
+1377,-2.01058,24.27451,Savanna,0,NA
+1378,-2.09817,25.55994,Savanna,0,NA
+1379,-0.36185,25.28679,Non-peat forming forest,0,NA
+1380,-1.26341,25.36243,Savanna,0,NA
+1381,-2.83865,25.03159,Non-peat forming forest,0,NA
+1382,-1.09686,25.42982,Savanna,0,NA
+1383,-0.74221,25.3293,Savanna,0,NA
+1384,-1.35689,25.46816,Savanna,0,NA
+1385,-1.21695,25.42041,Savanna,0,NA
+1386,-1.21582,25.43443,Savanna,0,NA
+1387,-1.24608,25.49113,Non-peat forming forest,0,NA
+1388,-0.94785,25.56466,Non-peat forming forest,0,NA
+1389,-0.77449,24.86414,Savanna,0,NA
+1390,-0.6154,25.42461,Non-peat forming forest,0,NA
+1391,-1.24561,25.38837,Savanna,0,NA
+1392,-1.26133,25.49574,Savanna,0,NA
+1393,-1.28105,25.50802,Savanna,0,NA
+1394,-0.39244,25.38687,Non-peat forming forest,0,NA
+1395,-0.79718,24.94192,Non-peat forming forest,0,NA
+1396,-0.71617,25.1107,Savanna,0,NA
+1397,-0.73503,25.01373,Savanna,0,NA
+1398,-0.42463,25.31818,Savanna,0,NA
+1399,-0.51259,25.22761,Savanna,0,NA
+1400,-0.58261,25.41527,Non-peat forming forest,0,NA
+1401,-0.73574,24.98479,Savanna,0,NA
+1402,-0.5777,25.17373,Savanna,0,NA
+1403,-0.51748,24.99223,Non-peat forming forest,0,NA
+1404,-0.51795,25.31778,Savanna,0,NA
+1405,-0.56261,25.24307,Savanna,0,NA
+1406,-0.45898,25.13294,Non-peat forming forest,0,NA
+1407,-0.49207,25.35951,Non-peat forming forest,0,NA
+1408,-0.46101,25.264,Savanna,0,NA
+1409,-0.54212,24.97167,Non-peat forming forest,0,NA
+1410,-0.49135,25.07047,Non-peat forming forest,0,NA
+1411,-0.57764,25.18287,Non-peat forming forest,0,NA
+1412,-0.62371,24.84461,Non-peat forming forest,0,NA
+1413,-0.69301,25.12702,Savanna,0,NA
+1414,-0.73318,25.05787,Non-peat forming forest,0,NA
+1415,-0.65143,25.15394,Savanna,0,NA
+1416,-1.99715,24.31434,Savanna,0,NA
+1417,-1.30188,25.3605,Savanna,0,NA
+1418,-2.28913,25.65904,Savanna,0,NA
+1419,-2.60314,24.88353,Savanna,0,NA
+1420,-1.26356,25.34918,Savanna,0,NA
+1421,-2.1957,25.70558,Savanna,0,NA
+1422,-3.13187,24.99186,Non-peat forming forest,0,NA
+1423,-3.13073,25.00739,Savanna,0,NA
+1424,-1.9654,24.35934,Savanna,0,NA
+1425,-0.44085,25.29828,Non-peat forming forest,0,NA
+1426,-2.09768,25.5812,Savanna,0,NA
+1427,-2.10167,25.01292,Savanna,0,NA
+1428,-2.3322,25.65268,Savanna,0,NA
+1429,-1.98349,25.10579,Savanna,0,NA
+1430,-1.03253,24.77494,Non-peat forming forest,0,NA
+1431,-2.63606,25.34027,Savanna,0,NA
+1432,-2.98648,25.05308,Savanna,0,NA
+1433,-3.08598,25.48314,Savanna,0,NA
+1434,-3.00828,25.71637,Savanna,0,NA
+1435,-3.1338,25.30526,Savanna,0,NA
+1436,-2.53976,25.71094,Savanna,0,NA
+1437,-2.96844,25.40156,Savanna,0,NA
+1438,-2.88812,24.78819,Savanna,0,NA
+1439,-3.18221,24.8854,Savanna,0,NA
+1440,-1.06508,24.44762,Savanna,0,NA
+1441,-1.9611,24.2267,Savanna,0,NA
+1442,-2.93319,24.89373,Savanna,0,NA
+1443,-3.00189,25.66429,Non-peat forming forest,0,NA
+1444,-2.11345,25.60831,Savanna,0,NA
+1445,-2.48992,25.69448,Savanna,0,NA
+1446,-1.78785,24.24734,Savanna,0,NA
+1447,-1.72819,24.25262,Savanna,0,NA
+1448,-0.55229,24.87277,Savanna,0,NA
+1449,-1.91187,24.23074,Savanna,0,NA
+1450,-2.55418,25.68338,Non-peat forming forest,0,NA
+1451,-1.3284,25.52243,Non-peat forming forest,0,NA
+1452,-2.39682,25.66978,Savanna,0,NA
+1453,-3.12294,24.83364,Savanna,0,NA
+1454,-2.04929,25.1918,Non-peat forming forest,0,NA
+1455,-1.36487,25.45715,Savanna,0,NA
+1456,-2.63093,25.47489,Savanna,0,NA
+1457,-2.5193,25.69266,Savanna,0,NA
+1458,-2.06187,25.16593,Non-peat forming forest,0,NA
+1459,-3.39842,24.42134,Savanna,0,NA
+1460,-2.74669,25.10081,Savanna,0,NA
+1461,-0.90564,25.41223,Savanna,0,NA
+1462,-2.31113,25.65804,Savanna,0,NA
+1463,-1.37149,25.45037,Savanna,0,NA
+1464,-1.41241,25.42633,Savanna,0,NA
+1465,-1.40019,25.72641,Savanna,0,NA
+1466,-2.26744,25.6517,Savanna,0,NA
+1467,-3.05546,24.86035,Savanna,0,NA
+1468,-2.55277,25.69867,Savanna,0,NA
+1469,-1.38965,25.71324,Savanna,0,NA
+1470,-2.57533,25.72419,Savanna,0,NA
+1471,-3.13619,25.10157,Savanna,0,NA
+1472,-3.10859,25.18141,Savanna,0,NA
+1473,-0.74265,24.20412,Savanna,0,NA
+1474,-3.10419,25.28115,Savanna,0,NA
+1475,-1.30263,24.15324,Savanna,0,NA
+1476,-1.20765,24.29259,Savanna,0,NA
+1477,-2.68916,25.57474,Non-peat forming forest,0,NA
+1478,-0.99367,25.46061,Non-peat forming forest,0,NA
+1479,-0.71537,24.83232,Savanna,0,NA
+1480,-3.13524,25.4059,Savanna,0,NA
+1481,-1.02556,24.72483,Non-peat forming forest,0,NA
+1482,-2.85134,25.4795,Savanna,0,NA
+1483,-2.84605,24.77353,Savanna,0,NA
+1484,-1.02262,24.41288,Savanna,0,NA
+1485,-3.00039,25.58237,Savanna,0,NA
+1486,-0.61662,24.21477,Savanna,0,NA
+1487,-2.64174,24.80551,Savanna,0,NA
+1488,-1.34774,25.23387,Savanna,0,NA
+1489,-2.56653,25.3625,Non-peat forming forest,0,NA
+1490,-2.99956,25.5965,Non-peat forming forest,0,NA
+1491,-2.93497,25.41848,Non-peat forming forest,0,NA
+1492,-3.12361,24.95982,Savanna,0,NA
+1493,-2.11275,25.02903,Savanna,0,NA
+1494,-2.57994,25.60916,Savanna,0,NA
+1495,-1.28882,24.22952,Non-peat forming forest,0,NA
+1496,-1.04317,24.28644,Savanna,0,NA
+1497,-2.77526,25.48998,Savanna,0,NA
+1498,-2.57591,24.94388,Savanna,0,NA
+1499,-3.15055,25.35567,Savanna,0,NA
+1500,-3.09229,25.24533,Savanna,0,NA
+1501,-3.10326,25.21885,Non-peat forming forest,0,NA
+1502,-1.32415,25.67684,Savanna,0,NA
+1503,-3.12712,25.16223,Savanna,0,NA
+1504,-2.62418,25.39902,Savanna,0,NA
+1505,-2.91174,25.45343,Savanna,0,NA
+1506,-1.02067,24.73933,Non-peat forming forest,0,NA
+1507,-1.42136,24.0719,Non-peat forming forest,0,NA
+1508,-1.32589,25.55298,Savanna,0,NA
+1509,-1.30508,25.52229,Non-peat forming forest,0,NA
+1510,-1.32278,25.65736,Savanna,0,NA
+1511,-3.15168,24.73264,Savanna,0,NA
+1512,-0.37562,25.32689,Non-peat forming forest,0,NA
+1513,-2.3623,25.65999,Savanna,0,NA
+1514,-1.05916,25.6173,Savanna,0,NA
+1515,-1.42027,25.29637,Non-peat forming forest,0,NA
+1516,-0.4286,25.17283,Savanna,0,NA
+1517,-1.35894,25.70023,Savanna,0,NA
+1518,-1.9087,25.10547,Savanna,0,NA
+1519,-2.79959,25.48626,Savanna,0,NA
+1520,-2.59022,25.56339,Non-peat forming forest,0,NA
+1521,-1.08675,24.80795,Non-peat forming forest,0,NA
+1522,-2.61885,24.86339,Savanna,0,NA
+1523,-1.06893,24.24145,Savanna,0,NA
+1524,-3.02988,25.53797,Savanna,0,NA
+1525,-0.86385,24.5734,Non-peat forming forest,0,NA
+1526,-2.99853,25.61244,Savanna,0,NA
+1527,-2.43121,25.67782,Non-peat forming forest,0,NA
+1528,-2.53609,25.3261,Savanna,0,NA
+1529,-2.32976,25.69597,Savanna,0,NA
+1530,-3.0643,25.50654,Savanna,0,NA
+1531,-0.5072,24.22713,Savanna,0,NA
+1532,-2.58188,24.92211,Savanna,0,NA
+1533,-1.02532,24.35876,Savanna,0,NA
+1534,-0.98295,24.31141,Non-peat forming forest,0,NA
+1535,-0.95299,24.27598,Non-peat forming forest,0,NA
+1536,-3.14514,25.34344,Savanna,0,NA
+1537,-0.79824,24.21496,Savanna,0,NA
+1538,-2.82634,25.4835,Savanna,0,NA
+1539,-2.10069,25.71163,Savanna,0,NA
+1540,-2.56151,25.00454,Savanna,0,NA
+1541,-0.55408,24.92265,Savanna,0,NA
+1542,-2.63088,24.83907,Savanna,0,NA
+1543,-3.17701,24.7712,Savanna,0,NA
+1544,-0.66292,24.21374,Savanna,0,NA
+1545,-1.27627,25.32753,Savanna,0,NA
+1546,-3.14123,25.32093,Savanna,0,NA
+1547,-3.01145,25.07888,Savanna,0,NA
+1548,-3.1485,25.37475,Savanna,0,NA
+1549,-1.34615,25.49072,Non-peat forming forest,0,NA
+1550,-0.66834,25.30151,Savanna,0,NA
+1551,-0.63004,25.17084,Savanna,0,NA
+1552,-2.38939,25.66812,Savanna,0,NA
+1553,-0.35909,25.43253,Savanna,0,NA
+1554,-1.04374,24.75123,Non-peat forming forest,0,NA
+1555,-2.71733,25.53905,Savanna,0,NA
+1556,-2.56481,25.66701,Non-peat forming forest,0,NA
+1557,-2.05226,25.11552,Non-peat forming forest,0,NA
+1558,-2.78929,24.71205,Savanna,0,NA
+1559,-2.44332,25.68259,Savanna,0,NA
+1560,-1.89385,24.22822,Savanna,0,NA
+1561,-2.05537,25.10062,Savanna,0,NA
+1562,-0.43933,25.03435,Savanna,0,NA
+1563,-0.65877,24.83577,Savanna,0,NA
+1564,-1.82533,24.22123,Savanna,0,NA
+1565,-2.05284,25.0917,Non-peat forming forest,0,NA
+1566,-2.11652,25.62604,Savanna,0,NA
+1567,-3.00894,25.4825,Savanna,0,NA
+1568,-1.4207,25.4104,Non-peat forming forest,0,NA
+1569,-2.1799,25.64698,Savanna,0,NA
+1570,-3.00478,25.54039,Savanna,0,NA
+1571,-2.72646,24.72281,Savanna,0,NA
+1572,-3.00076,25.546,Non-peat forming forest,0,NA
+1573,-2.90926,24.82802,Savanna,0,NA
+1574,-2.19988,25.65045,Savanna,0,NA
+1575,-2.28333,25.65,Non-peat forming forest,0,NA
+1576,-2.31667,25.65,Non-peat forming forest,0,NA
+1577,-3.13333,25.3,Non-peat forming forest,0,NA
+1578,-2.53333,25.7,Savanna,0,NA
+1579,-2.01667,25.51667,Non-peat forming forest,0,NA
+1580,-2.08333,25.55,Non-peat forming forest,0,NA
+1581,-2.55,25.68333,Savanna,0,NA
+1582,-2.1,25.6,Non-peat forming forest,0,NA
+1583,-2.51667,25.7,Savanna,0,NA
+1584,-2.38333,25.66667,Non-peat forming forest,0,NA
+1585,-2.35,25.65,Non-peat forming forest,0,NA
+1586,-3.1,25.26667,Savanna,0,NA
+1587,-2.56667,25.71667,Non-peat forming forest,0,NA
+1588,-3.08333,25.23333,Savanna,0,NA
+1589,-2.9,25.45,Savanna,0,NA
+1590,-2.96667,25.4,Non-peat forming forest,0,NA
+1591,-2.2,25.65,Non-peat forming forest,0,NA
+1592,0.23378,25.21067,Non-peat forming forest,0,NA
+1593,0.23289,25.21156,Non-peat forming forest,0,NA
+1594,0.30178,25.27956,Non-peat forming forest,0,NA
+1595,0.28711,25.28089,Non-peat forming forest,0,NA
+1596,0.30533,25.28578,Non-peat forming forest,0,NA
+1597,0.304,25.28622,Non-peat forming forest,0,NA
+1598,0.29822,25.292,Non-peat forming forest,0,NA
+1599,0.28844,25.29378,Non-peat forming forest,0,NA
+1600,0.3,25.29467,Non-peat forming forest,0,NA
+1601,0.30533,25.29644,Non-peat forming forest,0,NA
+1602,-2.86311,19.36267,Non-peat forming forest,0,NA
+1603,-0.81956,19.78622,Non-peat forming forest,0,NA
+1604,-1.71111,20.53733,Non-peat forming forest,0,NA
+1605,-1.70444,20.53733,Non-peat forming forest,0,NA
+1606,-1.69911,20.53733,Non-peat forming forest,0,NA
+1607,-1.71067,20.54356,Non-peat forming forest,0,NA
+1608,-1.704,20.54356,Non-peat forming forest,0,NA
+1609,-1.69778,20.54356,Non-peat forming forest,0,NA
+1610,-1.71067,20.54444,Non-peat forming forest,0,NA
+1611,-1.704,20.54978,Non-peat forming forest,0,NA
+1612,-1.69733,20.54978,Non-peat forming forest,0,NA
+1613,-1.70978,20.55022,Non-peat forming forest,0,NA
+1614,-1.712,20.55378,Hardwood peat swamp forest,NA,NA
+1615,-1.71289,20.55556,Hardwood peat swamp forest,NA,NA
+1616,-1.69244,20.57244,Non-peat forming forest,0,NA
+1617,-1.69067,20.57778,Non-peat forming forest,0,NA
+1618,1.58,20.60622,Non-peat forming forest,0,NA
+1619,1.58089,20.60711,Non-peat forming forest,0,NA
+1620,-1.80933,20.68533,Non-peat forming forest,0,NA
+1621,-1.80667,20.68667,Non-peat forming forest,0,NA
+1622,-1.80622,20.68711,Non-peat forming forest,0,NA
+1623,-1.80489,20.68889,Hardwood peat swamp forest,NA,NA
+1624,-1.80356,20.69022,Hardwood peat swamp forest,NA,NA
+1625,-1.80222,20.692,Hardwood peat swamp forest,NA,NA
+1626,2.57289,22.24133,Non-peat forming forest,0,NA
+1627,2.57289,22.24267,Non-peat forming forest,0,NA
+1628,2.724,22.27467,Non-peat forming forest,0,NA
+1629,2.72356,22.276,Non-peat forming forest,0,NA
+1630,2.77467,22.33511,Non-peat forming forest,0,NA
+1631,2.77378,22.336,Non-peat forming forest,0,NA
+1632,2.62444,22.35644,Non-peat forming forest,0,NA
+1633,2.62311,22.35733,Non-peat forming forest,0,NA
+1634,1.24489,22.636,Non-peat forming forest,0,NA
+1635,1.24578,22.63778,Non-peat forming forest,0,NA
+1636,1.39822,22.64311,Non-peat forming forest,0,NA
+1637,1.39778,22.64444,Non-peat forming forest,0,NA
+1638,1.30489,22.71867,Non-peat forming forest,0,NA
+1639,1.304,22.72,Non-peat forming forest,0,NA
+1640,1.37289,22.80222,Non-peat forming forest,0,NA
+1641,1.37333,22.80356,Non-peat forming forest,0,NA
+1642,2.98489,23.216,Non-peat forming forest,0,NA
+1643,2.98444,23.21733,Non-peat forming forest,0,NA
+1644,3.02444,23.25378,Non-peat forming forest,0,NA
+1645,3.02356,23.25511,Non-peat forming forest,0,NA
+1646,2.97467,23.292,Non-peat forming forest,0,NA
+1647,2.97333,23.29289,Non-peat forming forest,0,NA
+1648,3.08844,23.35067,Non-peat forming forest,0,NA
+1649,3.088,23.35156,Non-peat forming forest,0,NA
+1650,2.74489,23.64,Non-peat forming forest,0,NA
+1651,2.74489,23.64133,Non-peat forming forest,0,NA
+1652,2.57867,23.66578,Non-peat forming forest,0,NA
+1653,2.57956,23.66711,Non-peat forming forest,0,NA
+1654,2.65467,23.67822,Non-peat forming forest,0,NA
+1655,2.65556,23.67867,Non-peat forming forest,0,NA
+1656,2.68267,23.69156,Non-peat forming forest,0,NA
+1657,2.68178,23.69289,Non-peat forming forest,0,NA
+1658,2.65244,23.69956,Non-peat forming forest,0,NA
+1659,2.65156,23.70044,Non-peat forming forest,0,NA
+1660,2.67111,23.79689,Non-peat forming forest,0,NA
+1661,2.672,23.79822,Non-peat forming forest,0,NA
+1662,0.45378,23.84133,Non-peat forming forest,0,NA
+1663,0.45511,23.84222,Non-peat forming forest,0,NA
+1664,2.19511,24.42311,Non-peat forming forest,0,NA
+1665,2.19556,24.42444,Non-peat forming forest,0,NA
+1666,2.32978,24.49289,Non-peat forming forest,0,NA
+1667,2.32978,24.49422,Non-peat forming forest,0,NA
+1668,2.29511,24.50267,Non-peat forming forest,0,NA
+1669,2.22222,24.50356,Non-peat forming forest,0,NA
+1670,2.296,24.50356,Non-peat forming forest,0,NA
+1671,2.22311,24.50444,Non-peat forming forest,0,NA
+1672,0.19067,25.34978,Non-peat forming forest,0,NA
+1673,0.19156,25.35067,Non-peat forming forest,0,NA
+1674,0.936,24.33556,Non-peat forming forest,0,NA
+1675,0.93733,24.33644,Non-peat forming forest,0,NA
+1676,0.896,24.37689,Non-peat forming forest,0,NA
+1677,0.89689,24.37822,Non-peat forming forest,0,NA
+1678,0.84667,24.38178,Non-peat forming forest,0,NA
+1679,0.87156,24.41067,Non-peat forming forest,0,NA
+1680,0.77244,24.44756,Non-peat forming forest,0,NA
+1681,0.78089,24.48533,Non-peat forming forest,0,NA
+1682,0.80356,24.49022,Non-peat forming forest,0,NA
+1683,0.81333,24.492,Non-peat forming forest,0,NA
+1684,0.83467,24.52489,Non-peat forming forest,0,NA
+1685,0.83556,24.52578,Non-peat forming forest,0,NA
+1686,0.99689,24.54533,Non-peat forming forest,0,NA
+1687,1.91667,15.78333,Non-peat forming forest,0,NA
+1688,1.73136,16.1352,Non-peat forming forest,0,NA
+1689,2.0289,15.2525,Non-peat forming forest,0,NA
+1690,1.85235,15.82528,Non-peat forming forest,0,NA
+1691,1.9333,15.3333,Non-peat forming forest,0,NA
+1692,2.06,15.48,Non-peat forming forest,0,NA
+1693,0.6567,25.16064,Savanna,0,NA
+1694,1.3028,23.81738,Savanna,0,NA
+1695,0.64945,24.23044,Savanna,0,NA
+1696,2.0501,22.8649,Savanna,0,NA
+1697,0.80317,24.29433,Savanna,0,NA
+1698,0.76755,24.43973,Savanna,0,NA
+1699,0.72554,24.2184,Savanna,0,NA
+1700,0.28,25.32,Non-peat forming forest,0,NA
+1701,-0.3053,21.13059,Savanna,0,NA
+1702,-0.52734,21.78508,Non-peat forming forest,0,NA
+1703,-0.26545,19.62842,Non-peat forming forest,0,NA
+1704,-0.54428,22.01093,Non-peat forming forest,0,NA
+1705,0.00847,18.31308,Savanna,0,NA
+1706,-1.29014,20.37105,Non-peat forming forest,0,NA
+1707,-0.14634,18.80102,Savanna,0,NA
+1708,0.72905,20.73573,Savanna,0,NA
+1709,1.22705,19.80294,Savanna,0,NA
+1710,0.55494,20.931,Non-peat forming forest,0,NA
+1711,-0.98138,19.40391,Non-peat forming forest,0,NA
+1712,0.1666,22.39941,Savanna,0,NA
+1713,0.29968,21.16504,Non-peat forming forest,0,NA
+1714,-1.8376,20.77005,Non-peat forming forest,0,NA
+1715,-0.43,19.16106,Savanna,0,NA
+1716,-0.25366,18.88671,Non-peat forming forest,0,NA
+1717,-1.23634,20.36541,Non-peat forming forest,0,NA
+1718,-0.19839,19.98008,Savanna,0,NA
+1719,-0.73696,18.12662,Savanna,0,NA
+1720,-1.9141,20.88325,Non-peat forming forest,0,NA
+1721,-0.1089,17.72225,Non-peat forming forest,0,NA
+1722,1.44115,18.04289,Savanna,0,NA
+1723,-0.27818,20.87888,Savanna,0,NA
+1724,-1.10633,19.9609,Non-peat forming forest,0,NA
+1725,-0.53009,19.8389,Non-peat forming forest,0,NA
+1726,-0.34953,20.7795,Non-peat forming forest,0,NA
+1727,-0.56405,19.80445,Non-peat forming forest,0,NA
+1728,-0.85905,22.88476,Non-peat forming forest,0,NA
+1729,-0.09939,18.59212,Non-peat forming forest,0,NA
+1730,-0.21579,18.8508,Savanna,0,NA
+1731,-0.73396,22.53428,Non-peat forming forest,0,NA
+1732,-0.73293,22.56314,Non-peat forming forest,0,NA
+1733,-0.31247,18.64359,Non-peat forming forest,0,NA
+1734,-0.74775,19.84003,Non-peat forming forest,0,NA
+1735,-0.21431,20.20614,Savanna,0,NA
+1736,-0.1139,18.69836,Savanna,0,NA
+1737,-0.61601,22.30746,Savanna,0,NA
+1738,-0.61843,22.35147,Non-peat forming forest,0,NA
+1739,0.10277,17.7805,Non-peat forming forest,0,NA
+1740,-0.73773,19.58308,Non-peat forming forest,0,NA
+1741,-1.00885,19.9601,Savanna,0,NA
+1742,0.34907,19.22824,Savanna,0,NA
+1743,0.77326,18.51448,Savanna,0,NA
+1744,0.67783,17.88229,Savanna,0,NA
+1745,-1.21374,19.75568,Non-peat forming forest,0,NA
+1746,0.43,19.59006,Non-peat forming forest,0,NA
+1747,0.9155,20.4723,Non-peat forming forest,0,NA
+1748,0.45956,20.97092,Non-peat forming forest,0,NA
+1749,-0.5928,19.78536,Non-peat forming forest,0,NA
+1750,-0.79004,19.39585,Non-peat forming forest,0,NA
+1751,0.23866,18.34245,Savanna,0,NA
+1752,-0.77969,22.75498,Savanna,0,NA
+1753,-0.98333,18.7,Non-peat forming forest,0,NA
+1754,1.50712,21.07295,Savanna,0,NA
+1755,0.95727,18.75471,Savanna,0,NA
+1756,-0.9919,20.27573,Non-peat forming forest,0,NA
+1757,-0.83963,19.84677,Non-peat forming forest,0,NA
+1758,1.09655,20.07695,Non-peat forming forest,0,NA
+1759,1.26932,19.5502,Non-peat forming forest,0,NA
+1760,-0.36745,20.70779,Non-peat forming forest,0,NA
+1761,1.13055,19.2096,Savanna,0,NA
+1762,1.13974,19.26134,Non-peat forming forest,0,NA
+1763,1.1483,19.19026,Savanna,0,NA
+1764,1.44666,20.65036,Non-peat forming forest,0,NA
+1765,-0.39593,19.10607,Non-peat forming forest,0,NA
+1766,-0.26839,18.90587,Non-peat forming forest,0,NA
+1767,-0.64154,17.7029,Savanna,0,NA
+1768,0.05465,18.33258,Savanna,0,NA
+1769,1.33159,20.34182,Non-peat forming forest,0,NA
+1770,0.37859,18.87886,Savanna,0,NA
+1771,1.08993,17.89866,Non-peat forming forest,0,NA
+1772,-0.37749,17.72045,Non-peat forming forest,0,NA
+1773,-0.36105,20.61294,Non-peat forming forest,0,NA
+1774,1.34994,20.38486,Savanna,0,NA
+1775,-0.56358,20.01008,Non-peat forming forest,0,NA
+1776,-0.62436,20.06787,Non-peat forming forest,0,NA
+1777,1.42934,18.03115,Non-peat forming forest,0,NA
+1778,-0.27291,20.86361,Non-peat forming forest,0,NA
+1779,-0.23243,21.23901,Savanna,0,NA
+1780,-0.6498,20.08642,Non-peat forming forest,0,NA
+1781,2.09385,22.67221,Savanna,0,NA
+1782,-0.44254,21.55215,Non-peat forming forest,0,NA
+1783,-0.48962,19.9766,Non-peat forming forest,0,NA
+1784,-0.70407,17.58041,Savanna,0,NA
+1785,0.29927,18.56807,Savanna,0,NA
+1786,-0.5658,21.88509,Non-peat forming forest,0,NA
+1787,-0.52534,19.42586,Savanna,0,NA
+1788,0.97518,20.33892,Non-peat forming forest,0,NA
+1789,-2.0312,21.04164,Non-peat forming forest,0,NA
+1790,-0.35732,20.57736,Savanna,0,NA
+1791,-0.12174,18.78147,Savanna,0,NA
+1792,-0.12588,18.13318,Savanna,0,NA
+1793,-0.76816,19.83499,Savanna,0,NA
+1794,-1.20997,23.76779,Non-peat forming forest,0,NA
+1795,-0.10702,18.64618,Savanna,0,NA
+1796,0.28409,17.89789,Savanna,0,NA
+1797,0.98202,18.79488,Savanna,0,NA
+1798,-0.25746,21.09184,Non-peat forming forest,0,NA
+1799,-0.82191,19.78849,Savanna,0,NA
+1800,-0.01551,18.21048,Savanna,0,NA
+1801,1.01765,18.85468,Savanna,0,NA
+1802,-0.30969,18.96854,Savanna,0,NA
+1803,0.79293,18.54952,Non-peat forming forest,0,NA
+1804,-0.21104,20.26355,Non-peat forming forest,0,NA
+1805,1.5037,20.95973,Non-peat forming forest,0,NA
+1806,-0.24097,19.75228,Non-peat forming forest,0,NA
+1807,1.02445,20.22412,Non-peat forming forest,0,NA
+1808,-0.60514,17.76809,Savanna,0,NA
+1809,-0.66874,20.17268,Non-peat forming forest,0,NA
+1810,-0.36577,21.4832,Non-peat forming forest,0,NA
+1811,-0.17015,18.81545,Non-peat forming forest,0,NA
+1812,0.2637,18.30407,Non-peat forming forest,0,NA
+1813,0.31172,18.62434,Savanna,0,NA
+1814,-1.00433,20.29344,Non-peat forming forest,0,NA
+1815,-0.03479,18.18601,Savanna,0,NA
+1816,-0.31164,21.26231,Non-peat forming forest,0,NA
+1817,0.16239,18.3484,Savanna,0,NA
+1818,1.31303,20.15325,Non-peat forming forest,0,NA
+1819,0.14923,21.53725,Savanna,0,NA
+1820,0.13673,21.30194,Non-peat forming forest,0,NA
+1821,-1.15507,23.54013,Savanna,0,NA
+1822,-0.21314,19.37138,Non-peat forming forest,0,NA
+1823,-0.61694,19.80206,Non-peat forming forest,0,NA
+1824,0.09864,22.10606,Non-peat forming forest,0,NA
+1825,2.15008,21.51668,Savanna,0,NA
+1826,-0.3427,20.32304,Non-peat forming forest,0,NA
+1827,0.32034,17.94561,Non-peat forming forest,0,NA
+1828,2.2,21.4,Savanna,0,NA
+1829,-0.66782,19.48362,Savanna,0,NA
+1830,0.08761,21.83147,Non-peat forming forest,0,NA
+1831,0.35134,19.04137,Non-peat forming forest,0,NA
+1832,-1.0081,23.20594,Non-peat forming forest,0,NA
+1833,-1.23253,19.80685,Non-peat forming forest,0,NA
+1834,-0.80477,19.81565,Savanna,0,NA
+1835,-0.24771,18.88138,Savanna,0,NA
+1836,-0.24729,19.18099,Savanna,0,NA
+1837,1.1078,19.09314,Savanna,0,NA
+1838,-0.29155,19.87207,Non-peat forming forest,0,NA
+1839,-0.46778,19.38032,Savanna,0,NA
+1840,-1.06219,17.17559,Savanna,0,NA
+1841,-0.9227,19.96398,Non-peat forming forest,0,NA
+1842,-1.06902,17.25701,Savanna,0,NA
+1843,0.24856,18.39671,Savanna,0,NA
+1844,1.33491,20.23398,Non-peat forming forest,0,NA
+1845,-0.41596,19.31477,Savanna,0,NA
+1846,0.06028,18.25649,Savanna,0,NA
+1847,0.63715,18.38375,Savanna,0,NA
+1848,1.14207,20.01235,Non-peat forming forest,0,NA
+1849,-1.15312,20.31086,Non-peat forming forest,0,NA
+1850,0.36592,19.26555,Non-peat forming forest,0,NA
+1851,-0.21102,20.05377,Savanna,0,NA
+1852,-1.74556,20.68473,Savanna,0,NA
+1853,0.30357,18.53635,Savanna,0,NA
+1854,-0.14333,18.56984,Savanna,0,NA
+1855,0.07829,22.06517,Non-peat forming forest,0,NA
+1856,-0.81107,19.69613,Non-peat forming forest,0,NA
+1857,0.32076,18.77889,Non-peat forming forest,0,NA
+1858,1.66502,18.09224,Savanna,0,NA
+1859,-0.33177,20.64397,Savanna,0,NA
+1860,0.11808,21.38565,Non-peat forming forest,0,NA
+1861,-0.78207,19.62237,Savanna,0,NA
+1862,-0.77024,19.62216,Non-peat forming forest,0,NA
+1863,-1.99172,20.97292,Non-peat forming forest,0,NA
+1864,-0.1042,18.67459,Non-peat forming forest,0,NA
+1865,1.03921,18.86108,Savanna,0,NA
+1866,-0.51196,21.75244,Non-peat forming forest,0,NA
+1867,2.17437,21.59427,Savanna,0,NA
+1868,-0.10571,18.62317,Savanna,0,NA
+1869,-0.36537,20.51822,Savanna,0,NA
+1870,-0.39538,20.01139,Non-peat forming forest,0,NA
+1871,0.40731,19.56405,Non-peat forming forest,0,NA
+1872,-0.35195,19.01195,Savanna,0,NA
+1873,-1.7101,20.55,Non-peat forming forest,0,NA
+1874,-1.03331,17.33479,Savanna,0,NA
+1875,0.05086,22.00653,Non-peat forming forest,0,NA
+1876,-0.56859,21.91913,Non-peat forming forest,0,NA
+1877,-1.35482,20.37878,Non-peat forming forest,0,NA
+1878,-0.93895,20.19015,Non-peat forming forest,0,NA
+1879,1.00346,20.21124,Savanna,0,NA
+1880,-0.47971,21.63584,Savanna,0,NA
+1881,-0.59831,22.26646,Non-peat forming forest,0,NA
+1882,-1.03457,23.27744,Non-peat forming forest,0,NA
+1883,-1.17581,20.3401,Non-peat forming forest,0,NA
+1884,0.16454,22.34293,Savanna,0,NA
+1885,-1.33333,15.53333,Non-peat forming forest,0,NA
+1886,-1.83333,15.83333,Non-peat forming forest,0,NA
+1887,-1.71667,15.91667,Savanna,0,NA
+1888,-1.26556,15.46306,Savanna,0,NA
+1889,-1.35,15.2,Non-peat forming forest,0,NA
+1890,2.72187,18.40475,Savanna,0,NA
+1891,3.0049,18.69047,Savanna,0,NA
+1892,2.11641,18.1051,Savanna,0,NA
+1893,2.37,16.14,Non-peat forming forest,0,NA
+1894,2.80619,18.52371,Savanna,0,NA
+1895,2.88815,18.49567,Non-peat forming forest,0,NA
+1896,2.94,16.35,Non-peat forming forest,0,NA
+1897,3.2445,18.64865,Savanna,0,NA
+1898,2.35,16.15,Non-peat forming forest,0,NA
+1899,3.16192,18.63726,Savanna,0,NA
+1900,2.47,16.32,Non-peat forming forest,0,NA
+1901,-4.98748,19.59386,Savanna,0,NA
+1902,-4.99654,19.60143,Savanna,0,NA
+1903,2.2,16.51,Non-peat forming forest,0,NA
+1904,2.20308,16.18543,Savanna,0,NA
+1905,2.21,16.53,Non-peat forming forest,0,NA
+1906,-1.05235,16.9171,Savanna,0,NA
+1907,0.08167,17.48272,Savanna,0,NA
+1908,-0.00679,17.43206,Savanna,0,NA
+1909,0.20197,17.12944,Non-peat forming forest,0,NA
+1910,0.09949,17.47815,Savanna,0,NA
+1911,-0.80556,17.22193,Savanna,0,NA
+1912,2.18925,16.08439,Non-peat forming forest,0,NA
+1913,-0.40079,17.16628,Savanna,0,NA
+1914,-1.11712,16.87326,Savanna,0,NA
+1915,1.92518,15.67283,Non-peat forming forest,0,NA
+1916,-0.55249,17.36548,Non-peat forming forest,0,NA
+1917,-1.02762,15.35872,Savanna,0,NA
+1918,-0.83525,17.19986,Non-peat forming forest,0,NA
+1919,1.6575,16.43556,Non-peat forming forest,0,NA
+1920,3.13808,17.50324,Non-peat forming forest,0,NA
+1921,0.28974,17.39433,Savanna,0,NA
+1922,1.35392,17.44809,Savanna,0,NA
+1923,2.0766,16.08296,Non-peat forming forest,0,NA
+1924,2.32,16.34,Non-peat forming forest,0,NA
+1925,1.222,16.838,Non-peat forming forest,0,NA
+1926,1.22717,16.50482,Savanna,0,NA
+1927,1.20787,16.76744,Non-peat forming forest,0,NA
+1928,-0.45437,17.43441,Non-peat forming forest,0,NA
+1929,0.19657,17.10747,Non-peat forming forest,0,NA
+1930,0.69764,16.59047,Non-peat forming forest,0,NA
+1931,1.20917,17.41307,Savanna,0,NA
+1932,1.05693,17.30659,Savanna,0,NA
+1933,2.03056,16.08194,Non-peat forming forest,0,NA
+1934,1.45,17.06667,Non-peat forming forest,0,NA
+1935,1.78278,16.14681,Non-peat forming forest,0,NA
+1936,0.76502,15.36163,Non-peat forming forest,0,NA
+1937,1.88096,16.11238,Non-peat forming forest,0,NA
+1938,-0.34355,17.13467,Non-peat forming forest,0,NA
+1939,-0.04831,17.40679,Savanna,0,NA
+1940,0.81782,17.0903,Savanna,0,NA
+1941,1.05278,15.69167,Non-peat forming forest,0,NA
+1942,-0.10919,17.13091,Savanna,0,NA
+1943,-0.09684,17.41701,Savanna,0,NA
+1944,3.04333,17.30417,Non-peat forming forest,0,NA
+1945,2.63575,17.18259,Savanna,0,NA
+1946,2.64,16.66,Non-peat forming forest,0,NA
+1947,0.35156,15.43854,Non-peat forming forest,0,NA
+1948,1.11692,16.5227,Non-peat forming forest,0,NA
+1949,1.28164,16.43128,Non-peat forming forest,0,NA
+1950,2.25,16.4,Non-peat forming forest,0,NA
+1951,2.44,16.46,Non-peat forming forest,0,NA
+1952,2.59,16.5,Non-peat forming forest,0,NA
+1953,-0.40665,17.35925,Savanna,0,NA
+1954,0.29166,17.04676,Non-peat forming forest,0,NA
+1955,1.87056,16.6184,Savanna,0,NA
+1956,0.94565,16.5379,Non-peat forming forest,0,NA
+1957,2.35,16.28,Non-peat forming forest,0,NA
+1958,2.69,16.78,Non-peat forming forest,0,NA
+1959,-0.68442,17.17458,Savanna,0,NA
+1960,1.213,16.44739,Non-peat forming forest,0,NA
+1961,0.66054,17.16661,Savanna,0,NA
+1962,0.24528,17.45414,Savanna,0,NA
+1963,2.71,16.93,Non-peat forming forest,0,NA
+1964,1.2276,16.46774,Non-peat forming forest,0,NA
+1965,1.16261,17.35695,Non-peat forming forest,0,NA
+1966,2.14784,16.26298,Non-peat forming forest,0,NA
+1967,1.95761,15.55003,Non-peat forming forest,0,NA
+1968,1.76235,15.99786,Non-peat forming forest,0,NA
+1969,1.43333,16.15444,Non-peat forming forest,0,NA
+1970,-0.84951,17.19242,Non-peat forming forest,0,NA
+1971,0.36855,16.98774,Non-peat forming forest,0,NA
+1972,1.91186,15.72812,Non-peat forming forest,0,NA
+1973,1.61734,16.0572,Savanna,0,NA
+1974,2.052,16.376,Non-peat forming forest,0,NA
+1975,2.014,16.395,Non-peat forming forest,0,NA
+1976,1.78328,15.88168,Non-peat forming forest,0,NA
+1977,0.54986,16.63611,Savanna,0,NA
+1978,1.405,16.31833,Savanna,0,NA
+1979,1.93333,15.63333,Non-peat forming forest,0,NA
+1980,-1.04551,16.93295,Savanna,0,NA
+1981,-0.89224,17.12861,Savanna,0,NA
+1982,2.54,16.5,Non-peat forming forest,0,NA
+1983,2.22,16.21,Non-peat forming forest,0,NA
+1984,2.19,16.4,Non-peat forming forest,0,NA
+1985,-0.3517,17.36657,Savanna,0,NA
