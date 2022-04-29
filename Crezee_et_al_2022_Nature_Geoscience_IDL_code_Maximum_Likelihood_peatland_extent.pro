@@ -2,11 +2,11 @@ pro Crezee_et_al_2022_Nature_Geoscience_IDL_code_Maximum_Likelihood_peatland_ext
 CPU, TPOOL_NTHREADS=1
 close, /all
 
-;; Code developed by Bart Crezee, Greta Dargie, and Ed Mitchard to map peatland extent across the central Congo Basin based on 5 landcover classes.
+;; Code developed by Bart Crezee, Greta Dargie, and Ed Mitchard to map peatland extent across the central Congo Basin using 5 landcover classes.
 
 ;; If using this code, please cite both:
-;; Crezee et al., 2022. Maps of central Congo Basin peat thickness and carbon stocks based on extensive field data. Nature Geoscience
-;; Dargie et al., 2017. Age, extent and carbon storage of the central Congo Basin peatland complex. Nature
+;; Crezee et al. (2022). Mapping peat thickness and carbon stocks of the central Congo Basin using field data. Nature Geoscience
+;; Dargie et al. (2017). Age, extent and carbon storage of the central Congo Basin peatland complex. Nature
 
 ; Set up model constants
 xdims = 24137L     ; this must correspond with the samples number in the ENVI header file
