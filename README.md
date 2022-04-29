@@ -17,7 +17,7 @@ Field-measured peat carbon density (in Mg C/ha) is listed for 80 datapoints.
 
 **Code**
 
-The .pro file contains the IDL code to run the Maximum Likelihood model of peatland extent in ENVI software (L3Harris Geospatial, IDL 8.7.3 and ENVI 5.5.3). If using this code, please also cite: Dargie et al., 2017. Age, extent and carbon storage of the central Congo Basin peatland complex. *Nature* 542, 86–90.
+The .pro file contains the IDL code to run the Maximum Likelihood model of peatland extent in ENVI software (L3Harris Geospatial, IDL 8.7.3 and ENVI 5.5.3). If using this code, please also cite: Dargie et al. (2017). Age, extent and carbon storage of the central Congo Basin peatland complex. *Nature* 542, 86–90.
 
 To run, create an input folder (specified under 'infolderpath') that contains five separate .csv files with lat/lon combinations only, for each of the five landcover classes used. Also create an empty output folder (specified under 'outfolderpath') to store the output files.
 
