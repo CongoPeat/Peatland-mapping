@@ -2,7 +2,7 @@
 
 Data and code required for reproducing the peatland extent, peat thickness and/or peat carbon density maps as reported in the following publication:
 
-*Crezee et al. (2022). Mapping peat thickness and carbon stocks of the central Congo Basin using field data. Nature Geoscience (in press)*
+*Crezee et al. (2022). Mapping peat thickness and carbon stocks of the central Congo Basin using field data. Nature Geoscience. https://doi.org/10.1038/s41561-022-00966-7*
 
 Please cite this paper if you're using any of the data or code presented here.
 
